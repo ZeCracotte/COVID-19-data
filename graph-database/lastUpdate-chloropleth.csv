@@ -1,0 +1,308 @@
+Province/State,Country/Region,Confirmed,Deaths,Recovered,Existing
+,Afghanistan,24,0,1,23
+,Albania,70,2,0,68
+,Algeria,90,11,32,47
+,Andorra,75,0,1,74
+,Angola,1,0,0,1
+,Antigua and Barbuda,1,0,0,1
+,Argentina,128,3,3,122
+,Armenia,136,0,1,135
+New South Wales,C-Australia,353,6,4,343
+Queensland,C-Australia,184,0,8,176
+Victoria,C-Australia,121,0,8,113
+Western Australia,C-Australia,64,1,0,63
+South Australia,C-Australia,50,0,3,47
+Tasmania,C-Australia,10,0,3,7
+C-Australian Capital Territory,C-Australia,6,0,0,6
+Northern Territory,C-Australia,3,0,0,3
+From Diamond Princess,C-Australia,0,0,0,0
+,Austria,2388,6,9,2373
+,Azerbaijan,44,1,6,37
+,The Bahamas,3,0,0,3
+,Bahrain,285,1,100,184
+,Bangladesh,20,1,3,16
+,Barbados,5,0,0,5
+,Belarus,69,0,5,64
+,Belgium,2257,37,1,2219
+,Benin,2,0,0,2
+,Bhutan,2,0,0,2
+,Bolivia,15,0,0,15
+,Bosnia and Herzegovina,89,0,2,87
+,Brazil,793,11,2,780
+,Brunei,78,0,1,77
+,Bulgaria,127,3,0,124
+,Burkina Faso,40,1,0,39
+,Cabo Verde,1,0,0,1
+,Cambodia,51,0,1,50
+,Cameroon,20,0,0,20
+Ontario,C-Canada,308,2,5,301
+British Columbia,C-Canada,271,8,4,259
+Alberta,C-Canada,146,1,0,145
+Quebec,C-Canada,139,1,0,138
+Saskatchewan,C-Canada,20,0,0,20
+Manitoba,C-Canada,17,0,0,17
+Nova Scotia,C-Canada,15,0,0,15
+New Brunswick,C-Canada,11,0,0,11
+Grand Princess,C-Canada,10,0,0,10
+Newfoundland and Labrador,C-Canada,4,0,0,4
+Prince Edward Island,C-Canada,2,0,0,2
+,Central African Republic,3,0,0,3
+,Chad,1,0,0,1
+,Chile,434,0,6,428
+Hubei,C-China,67800,3133,58382,6285
+Guangdong,C-China,1395,8,1323,64
+Henan,C-China,1273,22,1250,1
+Zhejiang,C-China,1234,1,1219,14
+Hunan,C-China,1018,4,1014,0
+Anhui,C-China,990,6,984,0
+Jiangxi,C-China,935,1,934,0
+Shandong,C-China,762,7,748,7
+Jiangsu,C-China,631,0,631,0
+Chongqing,C-China,576,6,570,0
+Sichuan,C-China,541,3,536,2
+Beijing,C-China,491,8,390,93
+Heilongjiang,C-China,484,13,463,8
+Shanghai,C-China,371,3,326,42
+Hebei,C-China,318,6,310,2
+Fujian,C-China,299,1,295,3
+Hong Kong,C-China,256,4,98,154
+Guangxi,C-China,254,2,250,2
+Shaanxi,C-China,247,3,237,7
+Yunnan,C-China,176,2,172,2
+Hainan,C-China,168,6,161,1
+Guizhou,C-China,146,2,144,0
+Tianjin,C-China,137,3,133,1
+Gansu,C-China,134,2,98,34
+Shanxi,C-China,133,0,133,0
+Liaoning,C-China,126,2,122,2
+Jilin,C-China,93,1,92,0
+Xinjiang,C-China,76,3,73,0
+Inner Mongolia,C-China,75,1,74,0
+Ningxia,C-China,75,0,75,0
+Qinghai,C-China,18,0,18,0
+Macau,C-China,17,0,10,7
+Tibet,C-China,1,0,1,0
+,Colombia,128,0,1,127
+,Congo (Brazzaville),3,0,0,3
+,Congo (Kinshasa),18,0,0,18
+,Costa Rica,89,1,0,88
+,Cote d'Ivoire,9,0,1,8
+,Croatia,128,1,5,122
+Diamond Princess,Cruise Ship,712,7,325,380
+,Cuba,16,1,0,15
+,Cyprus,67,0,0,67
+,Czechia,833,0,4,829
+C-Denmark,C-Denmark,1255,9,1,1245
+Faroe Islands,C-Denmark,80,0,0,80
+Greenland,C-Denmark,2,0,0,2
+,Djibouti,1,0,0,1
+,Dominican Republic,72,2,0,70
+,Ecuador,367,5,0,362
+,Egypt,285,8,39,238
+,El Salvador,1,0,0,1
+,Equatorial Guinea,6,0,0,6
+,Estonia,283,0,1,282
+,Eswatini,1,0,0,1
+,Ethiopia,9,0,0,9
+,Fiji,1,0,0,1
+,Finland,450,0,10,440
+C-France,C-France,12612,450,12,12150
+French Polynesia,C-France,11,0,0,11
+St Martin,C-France,4,0,0,4
+Saint Barthelemy,C-France,3,0,0,3
+New Caledonia,C-France,2,0,0,2
+French Guiana,C-France,0,0,0,0
+Guadeloupe,C-France,0,0,0,0
+Mayotte,C-France,0,0,0,0
+Reunion,C-France,0,0,0,0
+,French Guiana,15,0,0,15
+,Gabon,3,1,0,2
+,Gambia,1,0,0,1
+,Georgia,43,0,1,42
+,Germany,19848,67,180,19601
+,Ghana,16,0,0,16
+,Greece,495,6,19,470
+,Greenland,0,0,0,0
+,Guadeloupe,45,0,0,45
+,Guam,0,0,0,0
+,Guatemala,12,1,0,11
+,Guernsey,0,0,0,0
+,Guinea,1,0,0,1
+,Guyana,7,1,0,6
+,Haiti,2,0,0,2
+,Holy See,1,0,0,1
+,Honduras,24,0,0,24
+,Hungary,85,3,2,80
+,Iceland,409,0,5,404
+,India,244,5,20,219
+,Indonesia,369,32,15,322
+,Iran,19644,1433,6745,11466
+,Iraq,208,17,49,142
+,Ireland,683,3,5,675
+,Israel,705,0,14,691
+,Italy,47021,4032,4440,38549
+,Jamaica,16,1,2,13
+,Japan,963,33,191,739
+,Jersey,0,0,0,0
+,Jordan,85,0,1,84
+,Kazakhstan,49,3,0,46
+,Kenya,7,0,0,7
+,South Korea,8652,94,1540,7018
+,Kosovo,2,0,0,2
+,Kuwait,159,0,18,141
+,Kyrgyzstan,6,0,0,6
+,Latvia,111,0,1,110
+,Lebanon,163,4,4,155
+,Liberia,2,0,0,2
+,Liechtenstein,28,0,0,28
+,Lithuania,49,0,1,48
+,Luxembourg,484,4,0,480
+,Madagascar,3,0,0,3
+,Malaysia,1030,3,87,940
+,Maldives,13,0,0,13
+,Malta,64,0,2,62
+,Martinique,32,1,0,31
+,Mauritania,2,0,0,2
+,Mauritius,12,0,0,12
+,Mayotte,6,0,0,6
+,Mexico,164,1,4,159
+,Moldova,66,1,1,64
+,Monaco,11,0,0,11
+,Mongolia,6,0,0,6
+,Montenegro,14,0,0,14
+,Morocco,77,3,1,73
+,Namibia,3,0,0,3
+,Nepal,1,0,1,0
+C-Netherlands,C-Netherlands,2994,106,2,2886
+Aruba,C-Netherlands,5,0,0,5
+Curacao,C-Netherlands,3,1,0,2
+Sint Maarten,C-Netherlands,1,0,0,1
+,New Zealand,39,0,0,39
+,Nicaragua,1,0,0,1
+,Niger,1,0,0,1
+,Nigeria,12,0,1,11
+,North Macedonia,67,0,1,66
+,Norway,1914,7,1,1906
+,Oman,48,0,12,36
+,Pakistan,501,3,13,485
+,Panama,137,1,0,136
+,Papua New Guinea,1,0,0,1
+,Paraguay,13,0,0,13
+,Peru,234,3,1,230
+,Philippines,230,18,8,204
+,Poland,425,5,1,419
+,Portugal,1020,6,5,1009
+,Puerto Rico,0,0,0,0
+,Qatar,470,0,10,460
+,Republic of the Congo,0,0,0,0
+,Reunion,28,0,0,28
+,Romania,308,0,25,283
+,Russia,253,1,9,243
+,Rwanda,17,0,0,17
+,Saint Lucia,2,0,0,2
+,Saint Vincent and the Grenadines,1,0,0,1
+,San Marino,144,14,4,126
+,Saudi Arabia,344,0,8,336
+,Senegal,38,0,2,36
+,Serbia,135,1,1,133
+,Seychelles,7,0,0,7
+,Singapore,385,0,124,261
+,Slovakia,137,1,0,136
+,Slovenia,341,1,0,340
+,Somalia,1,0,0,1
+,South Africa,202,0,0,202
+,Spain,20410,1043,1588,17779
+,Sri Lanka,73,0,3,70
+,Sudan,2,1,0,1
+,Suriname,4,0,0,4
+,Sweden,1639,16,16,1607
+,Switzerland,5294,54,15,5225
+,Taiwan*,135,2,26,107
+,Tanzania,6,0,0,6
+,Thailand,322,1,42,279
+,The Bahamas,0,0,0,0
+,The Gambia,0,0,0,0
+,Togo,9,0,1,8
+,Trinidad and Tobago,9,0,0,9
+,Tunisia,54,1,0,53
+,Turkey,359,4,0,355
+,Ukraine,29,3,0,26
+,United Arab Emirates,140,2,31,107
+C-United Kingdom,C-United Kingdom,3983,177,65,3741
+Channel Islands,C-United Kingdom,14,0,0,14
+Gibraltar,C-United Kingdom,10,0,2,8
+Cayman Islands,C-United Kingdom,3,1,0,2
+Bermuda,C-United Kingdom,2,0,0,2
+Isle of Man,C-United Kingdom,1,0,0,1
+Montserrat,C-United Kingdom,1,0,0,1
+,Uruguay,94,0,0,94
+New York,C-US,8310,42,0,8268
+Washington,C-US,1524,83,0,1441
+California,C-US,1177,23,0,1154
+New Jersey,C-US,890,11,0,879
+Illinois,C-US,585,5,0,580
+Florida,C-US,563,10,0,553
+Michigan,C-US,552,3,0,549
+Louisiana,C-US,538,14,0,524
+Georgia,C-US,420,13,0,407
+MassachC-USetts,C-US,413,1,0,412
+Texas,C-US,394,5,0,389
+Colorado,C-US,363,4,0,359
+Pennsylvania,C-US,303,1,0,302
+Tennessee,C-US,233,0,0,233
+Wisconsin,C-US,207,3,0,204
+Connecticut,C-US,194,3,0,191
+Ohio,C-US,173,2,0,171
+North Carolina,C-US,172,0,0,172
+Maryland,C-US,149,1,0,148
+South Carolina,C-US,126,1,0,125
+Virginia,C-US,122,2,0,120
+Minnesota,C-US,115,0,0,115
+Nevada,C-US,114,1,0,113
+Oregon,C-US,114,3,0,111
+Arkansas,C-US,96,0,0,96
+Indiana,C-US,86,2,0,84
+Alabama,C-US,83,0,0,83
+Mississippi,C-US,80,1,0,79
+Arizona,C-US,78,0,0,78
+Utah,C-US,78,0,0,78
+District of Columbia,C-US,71,1,0,70
+Maine,C-US,56,0,0,56
+Rhode Island,C-US,54,0,0,54
+Missouri,C-US,53,2,0,51
+Diamond Princess,C-US,49,0,0,49
+Oklahoma,C-US,49,1,0,48
+Kentucky,C-US,47,2,0,45
+Iowa,C-US,45,0,0,45
+Kansas,C-US,44,1,0,43
+New Hampshire,C-US,44,0,0,44
+New Mexico,C-US,43,0,0,43
+Delaware,C-US,38,0,0,38
+Nebraska,C-US,37,0,0,37
+Vermont,C-US,29,2,0,27
+Hawaii,C-US,26,0,0,26
+Grand Princess,C-US,23,0,0,23
+Idaho,C-US,23,0,0,23
+North Dakota,C-US,19,0,0,19
+Wyoming,C-US,19,0,0,19
+Montana,C-US,15,0,0,15
+Guam,C-US,14,0,0,14
+Puerto Rico,C-US,14,0,0,14
+South Dakota,C-US,14,1,0,13
+Alaska,C-US,12,0,0,12
+West Virginia,C-US,7,0,0,7
+United States Virgin Islands,C-US,3,0,0,3
+,C-US,0,0,147,-147
+,Uzbekistan,33,0,0,33
+,Venezuela,42,0,0,42
+,Vietnam,91,0,16,75
+,Zambia,2,0,0,2
+,Zimbabwe,1,0,0,1
+,Australia,791,7,26,758
+,Canada,961,12,9,940
+,China,81250,3253,71266,6731
+,Denmark,1337,9,1,1327
+,France,12632,450,12,12170
+,Netherlands,3003,107,2,2894
+,United Kingdom,4014,178,67,3769
+,US,19100,244,147,18709
