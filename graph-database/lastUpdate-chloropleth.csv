@@ -8,7 +8,6 @@ Antigua and Barbuda;Antigua et Barduda;1;0;0;1;Amérique Centrale
 Arab Republic of Egypt;Égypte;285;8;39;238;Afrique
 Argentina;Argentine;128;3;3;122;Amérique du Sud
 Armenia;Arménie;136;0;1;135;Asie
-Australia;Australie;791;7;26;758;Océanie
 Austria;Autriche;2388;6;9;2373;Europe
 Azerbaijan;Azebaïdjan;44;1;6;37;Asie
 Bahrain;Bahrein;285;1;100;184;Asie
@@ -159,12 +158,10 @@ C-US;;3;0;0;3;
 C-US;;0;0;147;-147;
 Cambodia;Cambodge;51;0;1;50;Asie
 Cameroon;Cameroun;20;0;0;20;Afrique
-Canada;Canada;943;12;9;922;Amérique du Nord
 Cape Verde;Cap Vert;1;0;0;1;Afrique
 Central African Republic;République d’Afrique Centrale;3;0;0;3;Afrique
 Chad;Tchad;1;0;0;1;Afrique
 Chile;Chili;434;0;6;428;Amérique du Sud
-China;Chine;81250;3253;71266;6731;Asie
 Colombia;Colombie;128;0;1;127;Amérique du Sud
 Congo;Congo;3;0;0;3;Afrique
 Costa Rica;Costa Rica;89;1;0;88;Amérique du Sud
@@ -175,7 +172,6 @@ Cuba;Cuba;16;1;0;15;Amérique Centrale
 Cyprus;Chypre;67;0;0;67;Europe
 Czech Republic;République Tchèque;833;0;4;829;Europe
 Democratic Republic of Congo;République Démocratique du Congo;23;1;0;18;Afrique
-Denmark;Danemark;1337;9;1;1327;Europe
 Djibouti;Djibouti;1;0;0;1;Afrique
 Dominican Republic;République Dominicaine;72;2;0;70;Amérique Centrale
 Écuador;Équateur;367;5;0;362;Amérique du Sud
@@ -186,7 +182,6 @@ Eswatini;Eswatini;1;0;0;1;Afrique
 Éthiopia;Ethiopie;9;0;0;9;Afrique
 Fiji;Iles Fidji;1;0;0;1;Amérique Centrale
 Finland;Finlande;450;0;10;440;Europe
-France;France;12632;450;12;12170;Europe
 French Guiana;Guyane Française;15;0;0;15;Europe
 Gabon;Gabon;3;1;0;2;Afrique
 Gambia;Gambie;1;0;0;1;Afrique
@@ -244,7 +239,6 @@ Montenegro;Montenegro;14;0;0;14;Europe
 Morocco;Maroc;77;3;1;73;Afrique
 Namibia;Namibie;3;0;0;3;Afrique
 Nepal;Népal;1;0;1;0;Asie
-Netherlands;Pays-Bas;3003;107;2;2894;Europe
 New Zealand;Nouvelle-Zélande;39;0;0;39;Océanie
 Nicaragua;Nicaragua;1;0;0;1;Amérique Centrale
 Niger;Niger;1;0;0;1;Afrique
@@ -296,10 +290,23 @@ Tunisia;Tunisie;54;1;0;53;Afrique
 Turkey;Turquie;359;4;0;355;Europe
 Ukraine;Ukraine;29;3;0;26;Europe
 United Arab Emirates;Émirats Arabes Unis;140;2;31;107;Moyen-Orient
-United Kingdom;Royaume-Uni;4014;178;67;3769;Europe
-United States of America;États-Unis;19100;244;147;18709;Amérique du Nord
 Uruguay;Uruguay;94;0;0;94;Amérique du Sud
 Uzbekistan;Ouzbékistan;33;0;0;33;Asie
 Vietnam;Vietnam;91;0;16;75;Asie
 Zambia;Zambie;2;0;0;2;Afrique
 Zimbabwe;Zimbabwe;1;0;0;1;Afrique
+TOTAL;;272729;11330;87665;173730;
+;;;;;;
+;;;;;;
+Australia;Australie;791;7;26;758;Océanie
+Canada;Canada;943;12;9;922;Amérique du Nord
+China;Chine;81250;3253;71266;6731;Asie
+Denmark;Danemark;1337;9;1;1327;Europe
+France;France;12632;450;12;12170;Europe
+Netherlands;Pays-Bas;3003;107;2;2894;Europe
+United Kingdom;Royaume-Uni;4014;178;67;3769;Europe
+United States of America;États-Unis;19100;244;147;18709;Amérique du Nord
+;;;;;;
+Republic of Serbia;Serbie;135;1;1;133;Europe
+Slovakia;Slovaquie;137;1;0;136;Europe
+Macedonia;Macédoine du Nord;67;0;1;66;Europe
