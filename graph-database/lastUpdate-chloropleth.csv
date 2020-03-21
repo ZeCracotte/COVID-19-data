@@ -29,10 +29,10 @@ Bhutan,2,0,0,2
 Bolivia,15,0,0,15
 Bosnia and Herzegovina,89,0,2,87
 Brazil,793,11,2,780
-Brunei,78,0,1,77
+Brunei Darussalam,78,0,1,77
 Bulgaria,127,3,0,124
 Burkina Faso,40,1,0,39
-Cabo Verde,1,0,0,1
+Cape Verde,1,0,0,1
 Cambodia,51,0,1,50
 Cameroon,20,0,0,20
 C-Canada,308,2,5,301
@@ -83,22 +83,22 @@ C-China,18,0,18,0
 C-China,17,0,10,7
 C-China,1,0,1,0
 Colombia,128,0,1,127
-Congo (Brazzaville),3,0,0,3
-Congo (Kinshasa),18,0,0,18
+Congo,3,0,0,3
+Democratic Republic of Congo,18,0,0,18
 Costa Rica,89,1,0,88
 Cote d'Ivoire,9,0,1,8
 Croatia,128,1,5,122
 Cruise Ship,712,7,325,380
 Cuba,16,1,0,15
 Cyprus,67,0,0,67
-Czechia,833,0,4,829
+Czech Republic,833,0,4,829
 C-Denmark,1255,9,1,1245
 C-Denmark,80,0,0,80
 C-Denmark,2,0,0,2
 Djibouti,1,0,0,1
 Dominican Republic,72,2,0,70
 Ecuador,367,5,0,362
-Egypt,285,8,39,238
+Arab Republic of Egypt,285,8,39,238
 El Salvador,1,0,0,1
 Equatorial Guinea,6,0,0,6
 Estonia,283,0,1,282
@@ -136,7 +136,7 @@ Hungary,85,3,2,80
 Iceland,409,0,5,404
 India,244,5,20,219
 Indonesia,369,32,15,322
-Iran,19644,1433,6745,11466
+Islamic Republic of Iran,19644,1433,6745,11466
 Iraq,208,17,49,142
 Ireland,683,3,5,675
 Israel,705,0,14,691
@@ -147,10 +147,10 @@ Jersey,0,0,0,0
 Jordan,85,0,1,84
 Kazakhstan,49,3,0,46
 Kenya,7,0,0,7
-South Korea,8652,94,1540,7018
+Republic of Korea,8652,94,1540,7018
 Kosovo,2,0,0,2
 Kuwait,159,0,18,141
-Kyrgyzstan,6,0,0,6
+Kyrgyz Republic,6,0,0,6
 Latvia,111,0,1,110
 Lebanon,163,4,4,155
 Liberia,2,0,0,2
@@ -197,7 +197,7 @@ Qatar,470,0,10,460
 Republic of the Congo,0,0,0,0
 Reunion,28,0,0,28
 Romania,308,0,25,283
-Russia,253,1,9,243
+Russian Federation,253,1,9,243
 Rwanda,17,0,0,17
 Saint Lucia,2,0,0,2
 Saint Vincent and the Grenadines,1,0,0,1
@@ -207,7 +207,7 @@ Senegal,38,0,2,36
 Serbia,135,1,1,133
 Seychelles,7,0,0,7
 Singapore,385,0,124,261
-Slovakia,137,1,0,136
+Slovak Republic,137,1,0,136
 Slovenia,341,1,0,340
 Somalia,1,0,0,1
 South Africa,202,0,0,202
@@ -305,4 +305,4 @@ Denmark,1337,9,1,1327
 France,12632,450,12,12170
 Netherlands,3003,107,2,2894
 United Kingdom,4014,178,67,3769
-US,19100,244,147,18709
+United States of America,19100,244,147,18709
