@@ -1,9 +1,10 @@
-French Name;Confirmed;Deaths;Recovered;Existing
-Monde;272729;11330;87665;173730
-Europe;130027;6094;6694;117239
-Asie;95362;3452;73476;18434
-Afrique;973;27;77;865
-Amérique du Nord;20207;257;160;19790
-Amérique Centrale;303;6;2;295
-Amérique du Sud;2348;24;13;2311
-Océanie;831;7;26;798
+French Name,Confirmed,Deaths,Recovered,Existing
+Monde,304528,12973,91676,199879
+Europe,151210,7498,8989,134723
+Asie,96560,3475,74194,18891
+Afrique,1173,36,89,1048
+Amérique du Nord,26974,328,185,26461
+Amérique Centrale,461,6,3,452
+Amérique du Sud,3081,35,18,3028
+Océanie,1124,7,26,1091
+Reste du monde,32813,412,321,32080
