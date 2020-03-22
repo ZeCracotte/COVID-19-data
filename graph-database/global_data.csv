@@ -1,9 +1,4 @@
-Territoire,Détectés,Décès,Guéris
-Monde,305114,12973,91676
-Europe,151796,7498,8989
-Asie,96560,3475,74194
-Afrique,1173,36,89
-Amérique du Nord,26974,328,185
-Amérique Centrale,461,6,3
-Amérique du Sud,3081,35,18
-Océanie,1124,7,26
+Territoire,Monde,Europe,Asie,Afrique,Amérique du Nord,Amérique Centrale,Amérique du Sud,Océanie
+Détectés,305114,151796,96560,1173,26974,461,3081,1124
+Décès,12973,7498,3475,36,328,6,35,7
+Guéris,91676,8989,74194,89,185,3,18,26
