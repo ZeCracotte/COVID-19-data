@@ -1,10 +1,9 @@
-French Name,Confirmed,Deaths,Recovered,Existing
-Monde,305114,12973,91676,200465
-Europe,151796,7498,8989,135309
-Asie,96560,3475,74194,18891
-Afrique,1173,36,89,1048
-Amérique du Nord,26974,328,185,26461
-Amérique Centrale,461,6,3,452
-Amérique du Sud,3081,35,18,3028
-Océanie,1124,7,26,1091
-Reste du monde,32813,412,321,32080
+Territoire,Détectés,Décès,Guéris
+Monde,305114,12973,91676
+Europe,151796,7498,8989
+Asie,96560,3475,74194
+Afrique,1173,36,89
+Amérique du Nord,26974,328,185
+Amérique Centrale,461,6,3
+Amérique du Sud,3081,35,18
+Océanie,1124,7,26
