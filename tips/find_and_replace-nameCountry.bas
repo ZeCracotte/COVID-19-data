@@ -4,7 +4,7 @@
 #hopkins = name found in Johns Hopkins CSSE database (find)
 #datawrapper = name for datawrapper maps (replace)
 
-Sub find_replace_countries
+Sub find_replace_nameCountries
   Dim hopkins() As String
   Dim datawrapper() As String
   Dim n As Long
@@ -13,8 +13,8 @@ Sub find_replace_countries
   Dim sheet as Object
   Dim replace As Object
 
-  hopkins() = Array("Egypt", "Brunei", "Cabo Verde", "Czechia", "Korea, North", "Congo (Kinshasa)", "Congo (Brazzaville)", "Iran", "Kyrgyzstan", "Venezuela" ,"Korea, South", "Russia")
-  datawrapper() = Array("Arab Republic of Egypt", "Brunei Darussalam", "Cape Verde", "Czech Republic", "D. P. R. of Korea", "Democratic Republic of Congo", "Congo", "Islamic Republic of Iran", "Kyrgyz Republic", "R. B. de Venezuela", "Republic of Korea", "Russian Federation")
+  hopkins() = Array("Egypt", "Bahamas, The", "Brunei", "Cabo Verde", "Czechia", "Korea, North", "Congo (Kinshasa)", "Congo (Brazzaville)", "Cote d'Ivoire", "East Timor", "Gambia, The", "Gambia", "Greenland", "Iran", "Kyrgyzstan", "Slovakia", "Venezuela" ,"Korea, South", "Russia", "Syria")
+  datawrapper() = Array("Arab Republic of Egypt", "Bahamas" "Brunei Darussalam", "Cape Verde", "Czech Republic", "D. P. R. of Korea", "Democratic Republic of Congo", "Congo", "Côte d'Ivoire", "Timor-Leste", "The Gambia", "The Gambia", "Greenland (Den.)" "Islamic Republic of Iran", "Kyrgyz Republic", "Slovak republic", "R. B. de Venezuela", "Republic of Korea", "Russian Federation", "Syrian Arab Republic")
   document = ThisComponent rem .CurrentController.Frame
   rem sheet = doc.CurrentSelection.Spreadsheet
   sheets = document.getSheets()

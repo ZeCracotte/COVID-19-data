@@ -9,9 +9,9 @@ Czechia --> Czech Republic
 Korea, North --> D. P. R. of Korea (North)
 Congo (Kinshasa) --> Democratic Republic of Congo
 Congo (Brazzaville) --> Congo
-X Cote d'Ivoire --> Côte d’Ivoire
-X East Timor --> Timor-Leste
-X Gambia, The & Gambia --> The Gambia
+Cote d'Ivoire --> Côte d’Ivoire
+East Timor --> Timor-Leste
+Gambia, The & Gambia --> The Gambia
 X Greenland --> Greenland (Den.)
 Iran --> Islamic Republic of Iran
 Kyrgyzstan --> Kyrgyz Republic
@@ -23,7 +23,7 @@ Korea, South --> Republic of Korea
 ? --> Republic of Yemen
 Russia --> Russian Federation
 Serbia (WORLD) // Republic of Serbia (EUR)
-X Slovakia --> Slovak Republic (WORLD) // Slovakia (EUR)
+Slovakia --> Slovak Republic (WORLD) // Slovakia (EUR)
 Syria --> Syrian Arab Republic
 United States of America
 
