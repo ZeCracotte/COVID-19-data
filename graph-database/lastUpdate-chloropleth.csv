@@ -156,9 +156,10 @@ Japan,Japon,Asie,2020-03-24 23:37:15,1193,43,285,865
 Jordan,Jordanie,Moyen-Orient,2020-03-24 23:37:15,154,0,1,153
 Kazakhstan,Kazakhstan,Asie,2020-03-24 23:37:15,72,0,0,72
 Kenya,Kenya,Afrique,2020-03-24 23:37:15,25,0,0,25
-Kuwait,Kosovo,Europe,2020-03-24 23:37:15,191,0,39,152
-Kyrgyz Republic,Koweit,Moyen-Orient,2020-03-24 23:37:15,42,0,0,42
-Laos,Kirghizistan,Asie,2020-03-24 23:37:15,2,0,0,2
+Kosovo,Kosovo,Europe,2020-03-24 23:37:15,63,0,1,62
+Kuwait,Koweit,Moyen-Orient,2020-03-24 23:37:15,191,0,39,152
+Kyrgyz Republic,Kirghizistan,Asie,2020-03-24 23:37:15,42,0,0,42
+Lao People's Democratic Republic,Laos,Asie,2020-03-24 23:37:15,2,0,0,2
 Latvia,Lettonie,Europe,2020-03-24 23:37:15,197,0,1,196
 Lebanon,Liban,Moyen-Orient,2020-03-24 23:37:15,318,4,8,306
 Liberia,Liberia,Afrique,2020-03-24 23:37:15,3,0,0,3
@@ -220,8 +221,8 @@ Sudan,Soudan,Afrique,2020-03-24 23:37:15,3,1,0,2
 Suriname,Suriname,Amérique du Sud,2020-03-24 23:37:15,7,0,0,7
 Sweden,Suède,Europe,2020-03-24 23:37:15,2286,36,16,2234
 Switzerland,Suisse,Europe,2020-03-24 23:37:15,9877,122,131,9624
-Syrian Arab Republic,Syrie,Moyen-Orient,2020-03-24 23:37:15,1,0,0,1
-Taiwan,Taiwan,Asie,2020-03-24 07:38:21,215,2,29,184
+Syrian Arab Republic,Syrie,Moyen-Orient,2020-03-24 07:38:21,1,0,0,1
+Taiwan,Taiwan,Asie,2020-03-24 23:37:15,215,2,29,184
 Tanzania,Tanzanie,Afrique,2020-03-24 23:37:15,12,0,0,12
 Thailand,Thaïlande,Asie,2020-03-24 23:37:15,827,4,52,771
 The Bahamas,Les Bahamas,Amérique Centrale,2020-03-24 23:37:15,5,0,1,4
@@ -238,7 +239,7 @@ Uruguay,Uruguay,Amérique du Sud,2020-03-24 23:37:15,162,0,0,162
 Uzbekistan,Ouzbékistan,Asie,2020-03-24 23:37:15,50,0,0,50
 Vietnam,Vietnam,Asie,2020-03-24 23:37:15,134,0,17,117
 Zambia,Zambie,Afrique,2020-03-24 23:37:15,3,0,0,3
-Zimbabwe,Zimbabwe,Afrique,2020-03-24 23:37:15,3,1,0,2
+Zimbabwe,Zimbabwe,Afrique,2020-03-24 23:37:16,3,1,0,2
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
@@ -327,15 +328,15 @@ Zimbabwe,Zimbabwe,Afrique,2020-03-24 23:37:15,3,1,0,2
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-,,,,,,,
-Australia,Australie,Océanie,2020-03-24 23:37:15,2044,8,119,1917
-Canada,Canada,Amérique du Nord,2020-03-24 23:37:16,2790,26,110,2654
-China,Chine,Asie,2020-03-24 03:30:55,81591,3281,73280,5030
-Denmark,Danemark,Europe,2020-03-24 23:37:15,1718,32,36,1650
-France,France,Europe,2020-03-24 23:37:16,22622,1102,3288,18232
-Netherlands,Pays-Bas,Europe,2020-03-24 23:37:17,5580,277,3,5300
-United Kingdom,Royaume-Uni,Europe,2020-03-24 23:37:18,8164,423,140,7601
-United States of America,États-Unis,Amérique du Nord,2020-03-24 23:37:19,53740,706,348,52686
-Republic of Serbia,Serbie,Europe,2020-03-24 23:37:20,303,3,15,285
-Slovakia,Slovaquie,Europe,2020-03-24 23:37:21,204,0,7,197
-Macedonia,Macédoine du Nord,Europe,2020-03-24 23:37:22,148,2,1,145
+,,,2020-03-24 23:37:15,,,,
+Australia,Australie,Océanie,2020-03-24 23:37:16,2044,8,119,1917
+Canada,Canada,Amérique du Nord,2020-03-24 03:30:55,2790,26,110,2654
+China,Chine,Asie,2020-03-24 23:37:15,81591,3281,73280,5030
+Denmark,Danemark,Europe,2020-03-24 23:37:16,1718,32,36,1650
+France,France,Europe,2020-03-24 23:37:17,22622,1102,3288,18232
+Netherlands,Pays-Bas,Europe,2020-03-24 23:37:18,5580,277,3,5300
+United Kingdom,Royaume-Uni,Europe,2020-03-24 23:37:19,8164,423,140,7601
+United States of America,États-Unis,Amérique du Nord,2020-03-24 23:37:20,53740,706,348,52686
+Republic of Serbia,Serbie,Europe,2020-03-24 23:37:21,303,3,15,285
+Slovakia,Slovaquie,Europe,2020-03-24 23:37:22,204,0,7,197
+Macedonia,Macédoine du Nord,Europe,,148,2,1,145
