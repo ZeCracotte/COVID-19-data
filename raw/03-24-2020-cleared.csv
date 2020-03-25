@@ -1,4 +1,4 @@
-Country/Region,French Name,Continent,Last Update,Confirmed,Deaths,Recovered,Existing
+Country_Region,,,Last_Update,Confirmed,Deaths,Recovered,Active
 Afghanistan,Afghanistan,Asie,2020-03-24 23:37:15,74,1,1,72
 Albania,Albanie,Europe,2020-03-24 23:37:15,123,5,10,108
 Algeria,Algérie,Afrique,2020-03-24 23:37:15,264,19,24,221
@@ -14,7 +14,7 @@ Bahrain,Bahrein,Asie,2020-03-24 23:37:15,392,3,177,212
 Bangladesh,Bangladesh,Asie,2020-03-24 23:37:15,39,4,5,30
 Barbados,Barbados,Amérique Centrale,2020-03-24 23:37:15,18,0,0,18
 Belarus,Biélorusse,Europe,2020-03-24 23:37:15,81,0,22,59
-Belgium,Belgique,Europe,2020-03-24 23:37:15,4937,122,547,4268
+Belgium,Belgique,Europe,2020-03-24 23:37:15,4269,122,461,3686
 Belize,Belize,Amérique Centrale,2020-03-24 23:37:15,1,0,0,1
 Benin,Bénin,Afrique,2020-03-24 23:37:15,6,0,0,6
 Bhutan,Bhoutan,Asie,2020-03-24 23:37:15,2,0,0,2
@@ -239,103 +239,3 @@ Uzbekistan,Ouzbékistan,Asie,2020-03-24 23:37:15,50,0,0,50
 Vietnam,Vietnam,Asie,2020-03-24 23:37:15,134,0,17,117
 Zambia,Zambie,Afrique,2020-03-24 23:37:15,3,0,0,3
 Zimbabwe,Zimbabwe,Afrique,2020-03-24 23:37:15,3,1,0,2
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-Australia,Australie,Océanie,,2044,8,119,1917
-Canada,Canada,Amérique du Nord,,2790,26,110,2654
-China,Chine,Asie,,81591,3281,73280,5030
-Denmark,Danemark,Europe,,1718,32,36,1650
-France,France,Europe,,22622,1102,3288,18232
-Netherlands,Pays-Bas,Europe,,5580,277,3,5300
-United Kingdom,Royaume-Uni,Europe,,8164,423,140,7601
-United States of America,États-Unis,Amérique du Nord,,53740,706,348,52686
-Republic of Serbia,Serbie,Europe,,303,3,15,285
-Slovakia,Slovaquie,Europe,,204,0,7,197
-Macedonia,Macédoine du Nord,Europe,,148,2,1,145
