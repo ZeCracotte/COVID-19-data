@@ -1,4 +1,4 @@
-Country/Region,French Name,Continent,Last Update,Confirmed,Deaths,Recovered,Existing
+Country_Region,French Name,Continent,Last_Update,Confirmed,Deaths,Recovered,Active
 Afghanistan,Afghanistan,Asie,2020-03-26 23:48:18,94,4,2,88
 Albania,Albanie,Europe,2020-03-26 23:48:18,174,6,17,151
 Algeria,Algérie,Afrique,2020-03-26 23:48:18,367,25,29,313
@@ -329,14 +329,17 @@ Zimbabwe,Zimbabwe,Afrique,2020-03-26 23:48:18,3,1,0,2
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-Australia,Australie,Océanie,2020-03-26 23:48:18,2810,13,172,2625
-Canada,Canada,Amérique du Nord,2020-03-26 23:48:18,4042,38,184,3820
-China,Chine,Asie,2020-03-26 23:48:18,81782,3291,74181,4310
-Denmark,Danemark,Europe,2020-03-26 23:48:19,2023,41,50,1932
-France,France,Europe,2020-03-26 23:48:19,29551,1698,4955,22898
-Netherlands,Pays-Bas,Europe,2020-03-26 23:48:19,7468,435,6,7027
-United Kingdom,Royaume-Uni,Europe,2020-03-26 23:48:20,11812,580,150,11082
-United States of America,États-Unis,Amérique du Nord,2020-03-26 23:48:20,83836,1209,681,81946
-Republic of Serbia,Serbie,Europe,2020-03-26 23:48:20,303,3,15,285
-Slovakia,Slovaquie,Europe,2020-03-26 23:48:21,204,0,7,197
-Macedonia,Macédoine du Nord,Europe,2020-03-26 23:48:21,148,2,1,145
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,Australie,Océanie,,,,,
+,Canada,Amérique du Nord,,,,,
+,Chine,Asie,,,,,
+,Danemark,Europe,,,,,
+,France,Europe,,,,,
+,Pays-Bas,Europe,,,,,
+,Royaume-Uni,Europe,,,,,
+,États-Unis,Amérique du Nord,,,,,
+,Serbie,Europe,,,,,
+,Slovaquie,Europe,,,,,
+,Macédoine du Nord,Europe,,,,,
