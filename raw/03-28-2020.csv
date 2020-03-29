@@ -245,8 +245,8 @@ Turkey,Turquie,Europe,2020-03-28 23:05:25,7402,108,70,7224
 Uganda,Ouganda,Afrique,2020-03-28 23:05:25,30,0,0,30
 Ukraine,Ukraine,Europe,2020-03-28 23:05:25,356,9,5,342
 United Arab Emirates,Émirats Arabes Unis,Moyen-Orient,2020-03-28 23:05:25,468,2,52,414
-Uruguay,Uruguay,Amérique du Sud,2020-03-28 23:05:25,274,0,0,274
-US,Etats-Unis,Amérique du Nord,2020-03-28 23:05:26,121478,2026,1072,118380
+Uruguay,Etats-Unis,Amérique du Nord,2020-03-28 23:05:25,274,0,0,274
+US,Uruguay,Amérique du Sud,,121478,2026,1072,118380
 Uzbekistan,Ouzbékistan,Asie,2020-03-28 23:05:25,104,2,5,97
 Vietnam,Vietnam,Asie,2020-03-28 23:05:25,174,0,21,153
 West Bank and Gaza,Palestine,Moyen-Orient,2020-03-28 23:05:25,98,1,18,79
@@ -329,13 +329,17 @@ Zimbabwe,Zimbabwe,Afrique,2020-03-28 23:05:25,7,1,0,6
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-Australia,Australie,Océanie,2020-03-26 23:48:18,3640,14,244,3382
-Canada,Canada,Amérique du Nord,2020-03-26 23:48:18,5576,61,466,5049
-China,Chine,Asie,2020-03-26 23:48:18,81999,3299,75100,3600
-Denmark,Danemark,Europe,2020-03-26 23:48:19,2366,65,57,2244
-France,France,Europe,2020-03-26 23:48:19,38105,2317,5724,30064
-Netherlands,Pays-Bas,Europe,2020-03-26 23:48:19,9819,640,6,9173
-United Kingdom,Royaume-Uni,Europe,2020-03-26 23:48:20,17312,1021,151,16140
-Republic of Serbia,Serbie,Europe,2020-03-26 23:48:20,659,10,15,634
-Slovakia,Slovaquie,Europe,2020-03-26 23:48:21,292,0,2,290
-Macedonia,Macédoine du Nord,Europe,2020-03-26 23:48:21,241,4,3,234
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,Australie,Océanie,,,,,
+,Canada,Amérique du Nord,,,,,
+,Chine,Asie,,,,,
+,Danemark,Europe,,,,,
+,France,Europe,,,,,
+,Pays-Bas,Europe,,,,,
+,Royaume-Uni,Europe,,,,,
+,Serbie,Europe,,,,,
+,Slovaquie,Europe,,,,,
+,Macédoine du Nord,Europe,,,,,
