@@ -1,7 +1,13 @@
 # COVID-19-data
-*Data used for RTBF datavisualization*
+*Data used for RTBF datavisualization, open for everyone*
 
-This repository is an adaptation of the data from Johns Hopkins CSSE, available here
+For world datas : adaptation of the data from Johns Hopkins CSSE, available here
 https://github.com/CSSEGISandData/COVID-19
+
+For belgium datas : cleaned datas from https://epistat.wiv-isp.be/covid/
+
+Datas are updated every morning
+
+CC - BY - 4.0
 
 Made by Adeline Louvigny aka ZeCracotte
