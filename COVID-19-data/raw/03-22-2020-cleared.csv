@@ -1,0 +1,305 @@
+Country/Region,,Confirmed,Deaths,Recovered,
+Afghanistan,Afghanistan,40,1,1,Asie
+Albania,Albanie,89,2,2,Europe
+Algeria,Algérie,201,17,65,Afrique
+Andorra,Andorre,113,1,1,Europe
+Angola,Angola,2,0,0,Afrique
+Antigua and Barbuda,Antigua et Barduda,1,0,0,Amérique Centrale
+Arab Republic of Egypt,Égypte,327,14,56,Afrique
+Argentina,Argentine,225,4,3,Amérique du Sud
+Armenia,Arménie,194,0,2,Asie
+Austria,Autriche,3244,16,9,Europe
+Azerbaijan,Azebaïdjan,65,1,10,Asie
+Bahrain,Bahrein,332,2,149,Asie
+Bangladesh,Bangladesh,27,2,3,Asie
+Barbados,Barbados,14,0,0,Amérique Centrale
+Belarus,Biélorusse,76,0,15,Europe
+Belgium,Belgique,3401,75,263,Europe
+Benin,Bénin,2,0,0,Afrique
+Bhutan,Bhoutan,2,0,0,Asie
+Bolivia,Bolivie,24,0,0,Amérique du Sud
+Bosnia and Herzegovina,Bosnie Herzégovine,126,1,2,Europe
+Brazil,Brésil,1593,25,2,Amérique du Sud
+Brunei Darussalam,Brunei,88,0,2,Asie
+Bulgaria,Bulgarie,187,3,3,Europe
+Burkina Faso,Burkina Faso,75,4,5,Afrique
+C-Australia,,533,6,4,Océanie
+C-Australia,,296,0,70,Océanie
+C-Australia,,221,0,8,Océanie
+C-Australia,,120,1,0,Océanie
+C-Australia,,100,0,3,Océanie
+C-Australia,,22,0,3,Océanie
+C-Australia,,19,0,0,Océanie
+C-Australia,,3,0,0,Océanie
+C-Australia,,0,0,0,Océanie
+C-Canada,,425,5,6,Amérique du Nord
+C-Canada,,424,10,4,Amérique du Nord
+C-Canada,,259,1,0,Amérique du Nord
+C-Canada,,219,5,0,Amérique du Nord
+C-Canada,,52,0,0,Amérique du Nord
+C-Canada,,28,0,0,Amérique du Nord
+C-Canada,,19,0,0,Amérique du Nord
+C-Canada,,17,0,0,Amérique du Nord
+C-Canada,,13,0,0,Amérique du Nord
+C-Canada,,6,0,0,Amérique du Nord
+C-Canada,,2,0,0,Amérique du Nord
+C-Canada,,1,0,0,Amérique du Nord
+C-China,,67800,3144,59433,Asie
+C-China,,1407,8,1329,Asie
+C-China,,1273,22,1250,Asie
+C-China,,1237,1,1219,Asie
+C-China,,1018,4,1014,Asie
+C-China,,990,6,984,Asie
+C-China,,936,1,934,Asie
+C-China,,766,7,750,Asie
+C-China,,633,0,631,Asie
+C-China,,577,6,570,Asie
+C-China,,543,3,536,Asie
+C-China,,514,8,400,Asie
+C-China,,484,13,466,Asie
+C-China,,394,4,328,Asie
+C-China,,319,6,310,Asie
+C-China,,317,4,100,Asie
+C-China,,307,1,295,Asie
+C-China,,254,2,250,Asie
+C-China,,248,3,239,Asie
+C-China,,176,2,172,Asie
+C-China,,168,6,161,Asie
+C-China,,146,2,144,Asie
+C-China,,137,3,133,Asie
+C-China,,136,2,114,Asie
+C-China,,133,0,133,Asie
+C-China,,126,2,124,Asie
+C-China,,93,1,92,Asie
+C-China,,76,3,73,Asie
+C-China,,75,1,74,Asie
+C-China,,75,0,75,Asie
+C-China,,20,0,10,Asie
+C-China,,18,0,18,Asie
+C-China,,1,0,1,Asie
+C-Denmark,,1395,13,1,Europe
+C-Denmark,,115,0,0,Europe
+C-Denmark,,4,0,0,Europe
+C-France,,16018,674,2200,Europe
+C-France,,15,0,0,Europe
+C-France,,4,0,0,Europe
+C-France,,4,0,0,Europe
+C-France,,3,0,0,Europe
+C-France,,0,0,0,Europe
+C-France,,0,0,0,Europe
+C-France,,0,0,0,Europe
+C-France,,0,0,0,Europe
+C-Netherlands,,4204,179,2,Europe
+C-Netherlands,,8,0,0,Europe
+C-Netherlands,,3,1,0,Europe
+C-Netherlands,,1,0,0,Europe
+C-United Kingdom,,5683,281,65,Europe
+C-United Kingdom,,32,0,0,Europe
+C-United Kingdom,,15,0,2,Europe
+C-United Kingdom,,5,0,0,Europe
+C-United Kingdom,,3,1,0,Europe
+C-United Kingdom,,2,0,0,Europe
+C-United Kingdom,,1,0,0,Europe
+C-US,,15793,117,0,Amérique du Nord
+C-US,,1996,95,0,Amérique du Nord
+C-US,,1914,20,0,Amérique du Nord
+C-US,,1642,30,0,Amérique du Nord
+C-US,,1049,9,0,Amérique du Nord
+C-US,,1037,9,0,Amérique du Nord
+C-US,,837,20,0,Amérique du Nord
+C-US,,830,13,0,Amérique du Nord
+C-US,,646,5,0,Amérique du Nord
+C-US,,627,6,0,Amérique du Nord
+C-US,,600,23,0,Amérique du Nord
+C-US,,509,3,0,Amérique du Nord
+C-US,,505,2,0,Amérique du Nord
+C-US,,476,6,0,Amérique du Nord
+C-US,,381,4,0,Amérique du Nord
+C-US,,355,3,0,Amérique du Nord
+C-US,,302,0,0,Amérique du Nord
+C-US,,244,3,0,Amérique du Nord
+C-US,,223,5,0,Amérique du Nord
+C-US,,221,6,0,Amérique du Nord
+C-US,,207,1,0,Amérique du Nord
+C-US,,201,6,0,Amérique du Nord
+C-US,,196,3,0,Amérique du Nord
+C-US,,190,2,0,Amérique du Nord
+C-US,,181,1,0,Amérique du Nord
+C-US,,169,1,0,Amérique du Nord
+C-US,,165,0,0,Amérique du Nord
+C-US,,161,4,0,Amérique du Nord
+C-US,,152,2,0,Amérique du Nord
+C-US,,138,0,0,Amérique du Nord
+C-US,,102,2,0,Amérique du Nord
+C-US,,100,3,0,Amérique du Nord
+C-US,,99,3,0,Amérique du Nord
+C-US,,90,0,0,Amérique du Nord
+C-US,,89,0,0,Amérique du Nord
+C-US,,83,0,0,Amérique du Nord
+C-US,,67,2,0,Amérique du Nord
+C-US,,65,0,0,Amérique du Nord
+C-US,,64,2,0,Amérique du Nord
+C-US,,57,0,0,Amérique du Nord
+C-US,,52,2,0,Amérique du Nord
+C-US,,51,0,0,Amérique du Nord
+C-US,,49,0,0,Amérique du Nord
+C-US,,48,0,0,Amérique du Nord
+C-US,,47,0,0,Amérique du Nord
+C-US,,42,0,0,Amérique du Nord
+C-US,,31,0,0,Amérique du Nord
+C-US,,30,1,0,Amérique du Nord
+C-US,,28,0,0,Amérique du Nord
+C-US,,27,1,0,Amérique du Nord
+C-US,,24,0,0,Amérique du Nord
+C-US,,23,1,0,Amérique du Nord
+C-US,,21,0,0,Amérique du Nord
+C-US,,21,1,0,Amérique du Nord
+C-US,,12,0,0,Amérique du Nord
+C-US,,6,0,0,Amérique du Nord
+C-US,,1,0,178,Amérique du Nord
+Cambodia,Cambodge,84,0,1,Asie
+Cameroon,Cameroun,40,0,0,Afrique
+Cape Verde,Cap Vert,3,0,0,Afrique
+Central African Republic,République d’Afrique Centrale,3,0,0,Afrique
+Chad,Tchad,1,0,0,Afrique
+Chile,Chili,632,1,8,Amérique du Sud
+Colombia,Colombie,231,2,3,Amérique du Sud
+Congo,Congo,3,0,0,Afrique
+Costa Rica,Costa Rica,134,2,2,Amérique du Sud
+Cote d'Ivoire,Cote d’Ivoire,14,0,1,Afrique
+Croatia,Croatie,254,1,5,Europe
+Cruise Ship,Diamond Princess,712,8,325,
+Cuba,Cuba,35,1,0,Amérique Centrale
+Cyprus,Chypre,95,1,3,Europe
+Czech Republic,République Tchèque,1120,1,6,Europe
+Democratic Republic of Congo,République Démocratique du Congo,30,1,0,Afrique
+Djibouti,Djibouti,1,0,0,Afrique
+Dominica,Dominique,1,0,0,Amérique Centrale
+Dominican Republic,République Dominicaine,202,3,0,Amérique Centrale
+Timor-Leste,Timor Oriental,1,0,0,Asie
+Ecuador,Équateur,789,14,3,Amérique du Sud
+El Salvador,El Salvador,3,0,0,Amérique Centrale
+Equatorial Guinea,Guinée équatoriale,6,0,0,Afrique
+Eritrea,Erythrée,1,0,0,Afrique
+Estonia,Estonie,326,0,2,Europe
+Eswatini,Eswatini,4,0,0,Afrique
+Ethiopia,Ethiopie,11,0,4,Afrique
+Fiji,Iles Fidji,2,0,0,Amérique Centrale
+Finland,Finlande,626,1,10,Europe
+French Guiana,Guyane Française,18,0,6,Europe
+Gabon,Gabon,5,1,0,Afrique
+The Gambia,Gambie,1,0,0,Afrique
+Georgia,Géorgie,54,0,3,Asie
+Germany,Allemagne,24873,94,266,Europe
+Ghana,Ghana,24,1,0,Afrique
+Greece,Grèce,624,15,19,Europe
+Greenland,Groenland,0,0,0,Europe
+Grenada,Grenade,1,0,0,Amérique Centrale
+Guadeloupe,Guadeloupe,56,0,0,Europe
+Guam,Guam,0,1,0,Asie
+Guatemala,Guatemala,19,1,0,Amérique Centrale
+Guernsey,Guernsey,0,0,0,Europe
+Guinea,Guinée,2,0,0,Afrique
+Guyana,Guyane,7,1,0,Amérique du Sud
+Haiti,Haïti,2,0,0,Amérique Centrale
+Holy See,Iles Anglo-Normandes,1,0,0,Europe
+Honduras,Honduras,26,0,0,Amérique Centrale
+Hungary,Hongrie,131,6,16,Europe
+Iceland,Islande,568,1,36,Europe
+India,Inde,396,7,27,Asie
+Indonesia,Indonésie,514,48,29,Asie
+Iraq,Irak,233,20,57,Moyen-Orient
+Ireland,Irlande,906,4,5,Europe
+Islamic Republic of Iran,Iran,21638,1685,7931,Moyen-Orient
+Israel,Israël,1071,1,37,Moyen-Orient
+Italy,Italie,59138,5476,7024,Europe
+Jamaica,Jamaïque,16,1,2,Amérique Centrale
+Japan,Japon,1086,40,235,Asie
+Jersey,Jersey,0,0,0,Europe
+Jordan,Jordanie,112,0,1,Moyen-Orient
+Kazakhstan,Kazakhstan,60,0,0,Asie
+Kenya,Kenya,15,0,0,Afrique
+Kosovo,Kosovo,2,0,0,Europe
+Kuwait,Koweit,188,0,27,Moyen-Orient
+Kyrgyz Republic,Kirghizistan,14,0,0,Asie
+Latvia,Lettonie,139,0,1,Europe
+Lebanon,Liban,248,4,8,Moyen-Orient
+Liberia,Liberia,3,0,0,Afrique
+Liechtenstein,Liechtenstein,37,0,0,Europe
+Lithuania,Lituanie,131,1,1,Europe
+Luxembourg,Luxembourg,798,8,6,Europe
+Madagascar,Madagascar,3,0,0,Afrique
+Malaysia,Malaisie,1306,10,139,Asie
+Maldives,Maldives,13,0,0,Asie
+Malta,Malte,90,0,2,Europe
+Martinique,Martinique,37,1,0,Europe
+Mauritania,Mauritanie,2,0,0,Afrique
+Mauritius,Maurice,18,1,0,Afrique
+Mayotte,Mayotte,11,0,0,Afrique
+Mexico,Mexique,251,2,4,Amérique du Nord
+Moldova,Moldavie,94,1,1,Asie
+Monaco,Monaco,23,0,1,Europe
+Mongolia,Mongolie,10,0,0,Asie
+Montenegro,Montenegro,21,0,0,Europe
+Morocco,Maroc,115,4,3,Afrique
+Mozambique,Mozambique,1,0,0,Afrique
+Namibia,Namibie,3,0,0,Afrique
+Nepal,Népal,2,0,1,Asie
+New Zealand,Nouvelle-Zélande,66,0,0,Océanie
+Nicaragua,Nicaragua,2,0,0,Amérique Centrale
+Niger,Niger,2,0,0,Afrique
+Nigeria,Nigeria,30,0,2,Afrique
+North Macedonia,Macédoine du Nord,114,1,1,Europe
+Norway,Norvège,2383,7,1,Europe
+Oman,Oman,55,0,17,Moyen-Orient
+Pakistan,Pakistan,776,5,5,Asie
+Panama,Panama,245,3,0,Amérique Centrale
+Papua New Guinea,Papouasie Nouvelle Guinée,1,0,0,Océanie
+Paraguay,Paraguay,22,1,0,Amérique du Sud
+Peru,Pérou,363,5,1,Amérique du Sud
+Philippines,Philippines,380,25,17,Asie
+Poland,Pologne,634,7,1,Europe
+Portugal,Portugal,1600,14,5,Europe
+Puerto Rico,Puerto Rico,0,1,0,Amérique Centrale
+Qatar,Qatar,494,0,33,Moyen-Orient
+R. B. de Venezuela,Venezuela,70,0,15,Amérique du Sud
+Republic of Korea,Corée du Sud,8897,104,2909,Asie
+Reunion,Ile de la Réunion,47,0,0,Europe
+Romania,Roumanie,433,3,64,Europe
+Russian Federation,Russie,367,0,16,Asie
+Rwanda,Rwanda,19,0,0,Afrique
+Saint Lucia,Sainte Lucie,2,0,0,Amérique Centrale
+Saint Vincent and the Grenadines,Saint Vincent et les Grenadines,1,0,0,Amérique Centrale
+San Marino,Saint Marin,160,20,4,Europe
+Saudi Arabia,Arabie Saoudite,511,0,16,Moyen-Orient
+Senegal,Sénégal,67,0,5,Afrique
+Serbia,Serbie,222,2,1,Europe
+Seychelles,Seychelles,7,0,0,Asie
+Singapore,Singapour,455,2,144,Asie
+Slovakia,Slovaquie,185,1,7,Europe
+Slovenia,Slovénie,414,2,0,Europe
+Somalia,Somalie,1,0,0,Afrique
+South Africa,Afrique du Sud,274,0,0,Afrique
+Spain,Espagne,28768,1772,2575,Europe
+Sri Lanka,Sri Lanka,82,0,3,Asie
+Sudan,Soudan,2,1,0,Afrique
+Suriname,Suriname,5,0,0,Amérique du Sud
+Sweden,Suède,1934,21,16,Europe
+Switzerland,Suisse,7245,98,131,Europe
+Syria,Syrian Arab Republic,1,0,0,Moyen-Orient
+Taiwan*,Taiwan,169,2,28,Asie
+Tanzania,Tanzanie,12,0,0,Afrique
+Thailand,Thaïlande,599,1,44,Asie
+The Bahamas,Les Bahamas,4,0,0,Amérique Centrale
+Togo,Togo,16,0,1,Afrique
+Trinidad and Tobago,Trinidad et Tobago,50,0,1,Amérique Centrale
+Tunisia,Tunisie,75,3,1,Afrique
+Turkey,Turquie,1236,30,0,Europe
+Uganda,Ouganda,1,0,0,Afrique
+Ukraine,Ukraine,73,3,1,Europe
+United Arab Emirates,Émirats Arabes Unis,153,2,38,Moyen-Orient
+Uruguay,Uruguay,135,0,0,Amérique du Sud
+Uzbekistan,Ouzbékistan,43,0,0,Asie
+Vietnam,Vietnam,113,0,17,Asie
+Zambia,Zambie,3,0,0,Afrique
+Zimbabwe,Zimbabwe,3,0,0,Afrique

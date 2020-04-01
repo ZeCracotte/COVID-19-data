@@ -1,0 +1,29 @@
+Noms spéciaux dans les cartes Datawrapper
+#(Attention que pour certains ça varie selon la carte)
+#Un code .bas a été créé pour un macro LibreOffice Cal de find and replace automatique
+
+Egypt --> Arab Republic of Egypt
+Brunei --> Brunei Darussalam
+Cabo Verde --> Cape Verde
+Czechia --> Czech Republic
+Korea, North --> D. P. R. of Korea (North)
+Congo (Kinshasa) --> Democratic Republic of Congo
+Congo (Brazzaville) --> Congo
+Cote d'Ivoire --> Côte d’Ivoire
+East Timor --> Timor-Leste
+Gambia, The & Gambia --> The Gambia
+X Greenland --> Greenland (Den.)
+Iran --> Islamic Republic of Iran
+Kyrgyzstan --> Kyrgyz Republic
+Laos --> Lao People's Democratic Republic
+? --> Macau, SAR
+North Macedonia (WORLD) // Macedonia (EUR)
+Venezuela --> R. B. de Venezuela
+Korea, South --> Republic of Korea 
+? --> Republic of Yemen
+Russia --> Russian Federation
+Serbia (WORLD) // Republic of Serbia (EUR)
+Slovakia --> Slovak Republic (WORLD) // Slovakia (EUR)
+Syria --> Syrian Arab Republic
+United States of America
+
