@@ -6,7 +6,7 @@ https://github.com/CSSEGISandData/COVID-19
 
 For belgium datas : cleaned datas from https://epistat.wiv-isp.be/covid/, the database is still in construction
 
-Datas are updated every morning
+Datas are updated everyday (morning for world, and sometime for Belgium)
 
 CC - BY - 4.0
 
