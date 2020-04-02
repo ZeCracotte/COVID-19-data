@@ -1,3 +1,4 @@
+# THIS IS AN OUTDATED TECHNIQUE AS I DISCOVERED THE PIVOT TABLES IN LIBRE OFFICE :)
 #This is a LibreOffice Calc macro for automated find and replace countries with multiple entries, so the data sum up
 #Made from Prahlad Yeri tutorial on medium : https://medium.com/@prahladyeri/ten-useful-libreoffice-macro-recipes-72732ad210fa
 
