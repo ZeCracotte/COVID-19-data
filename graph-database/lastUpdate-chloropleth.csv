@@ -29,7 +29,7 @@ Burkina Faso,Burkina Faso,Afrique,2020-04-02 23:25:14,288,16,50,222
 Burundi,Burundi,Afrique,2020-04-02 23:25:14,3,0,0,3
 Cambodia,Cambodge,Asie,2020-04-02 23:25:14,110,0,34,76
 Cameroon,Cameroun,Afrique,2020-04-02 23:25:14,306,7,10,289
-Canada,Canada,Amérique du Nord,2020-04-02 23:25:14,11284,139,1735,0
+Canada,Canada,Amérique du Nord,2020-04-02 23:25:14,11284,139,1735,9410
 Cape Verde,Cap Vert,Afrique,2020-04-02 23:25:14,6,1,0,5
 Central African Republic,République d’Afrique Centrale,Afrique,2020-04-02 23:25:14,3,0,0,3
 Chad,Tchad,Afrique,2020-04-02 23:25:14,8,0,0,8
@@ -97,6 +97,7 @@ Libya,Libye,Afrique,2020-04-02 23:25:14,11,1,0,10
 Liechtenstein,Liechtenstein,Europe,2020-04-02 23:25:14,75,0,0,75
 Lithuania,Lituanie,Europe,2020-04-02 23:25:14,649,9,7,633
 Luxembourg,Luxembourg,Europe,2020-04-02 23:25:14,2487,30,80,2377
+Macedonia,Macédoine du Nord,Europe,2020-04-01 21:58:34,384,11,17,356
 Madagascar,Madagascar,Afrique,2020-04-02 23:25:14,59,0,0,59
 Malawi,Malawi,Afrique,2020-04-02 23:25:14,3,0,0,3
 Malaysia,Malaisie,Asie,2020-04-02 23:25:14,3116,50,767,2299
@@ -135,6 +136,7 @@ Portugal,Portugal,Europe,2020-04-02 23:25:14,9034,209,68,8757
 Qatar,Qatar,Moyen-Orient,2020-04-02 23:25:14,949,3,72,874
 R. B. de Venezuela,Venezuela,Amérique du Sud,2020-04-02 23:25:14,146,5,43,98
 Republic of Korea,Corée du Sud,Asie,2020-04-02 23:25:14,9976,169,5828,3979
+Republic of Serbia,Serbie,Europe,2020-04-01 21:58:34,1171,31,0,1140
 Romania,Roumanie,Europe,2020-04-02 23:25:14,2738,115,267,2356
 Russian Federation,Russie,Asie,2020-04-02 23:25:14,3548,30,235,3283
 Rwanda,Rwanda,Afrique,2020-04-02 23:25:14,84,0,0,84
@@ -149,6 +151,7 @@ Seychelles,Seychelles,Asie,2020-04-02 23:25:14,10,0,0,10
 Sierra Leone,Sierra Leone,Afrique,2020-04-02 23:25:14,2,0,0,2
 Singapore,Singapour,Asie,2020-04-02 23:25:14,1049,4,266,779
 Slovak Republic,Slovaquie,Europe,2020-04-02 23:25:14,426,1,5,420
+Slovakia,Slovaquie,Europe,2020-04-01 21:58:34,4526,1,5,4520
 Slovenia,Slovénie,Europe,2020-04-02 23:25:14,897,17,70,810
 Somalia,Somalie,Afrique,2020-04-02 23:25:14,5,0,1,4
 South Africa,Afrique du Sud,Afrique,2020-04-02 23:25:14,1462,5,50,1407
@@ -173,13 +176,10 @@ Uganda,Ouganda,Afrique,2020-04-02 23:25:14,45,0,0,45
 Ukraine,Ukraine,Europe,2020-04-02 23:25:14,897,22,19,856
 United Arab Emirates,Émirats Arabes Unis,Moyen-Orient,2020-04-02 23:25:14,1024,8,96,920
 United Kingdom,Royaume-Uni,Europe,2020-04-02 23:25:14,34173,2926,192,31055
-Uruguay,Uruguay,Amérique du Sud,2020-04-02 23:25:14,350,4,62,284
 United States of America,États-Unis,Amérique du Nord,2020-04-02 23:25:14,243453,5926,9001,228526
+Uruguay,Uruguay,Amérique du Sud,2020-04-02 23:25:14,350,4,62,284
 Uzbekistan,Ouzbékistan,Asie,2020-04-02 23:25:14,205,2,25,178
 Vietnam,Vietnam,Asie,2020-04-02 23:25:14,233,0,75,158
 West Bank and Gaza,Palestine,Moyen-Orient,2020-04-02 23:25:14,161,1,18,142
 Zambia,Zambie,Afrique,2020-04-02 23:25:14,39,1,0,38
 Zimbabwe,Zimbabwe,Afrique,2020-04-02 23:25:14,9,1,0,8
-Republic of Serbia,Serbie,Europe,2020-04-01 21:58:34,1171,31,0,1140
-Slovakia,Slovaquie,Europe,2020-04-01 21:58:34,4526,1,5,4520
-Macedonia,Macédoine du Nord,Europe,2020-04-01 21:58:34,384,11,17,356
