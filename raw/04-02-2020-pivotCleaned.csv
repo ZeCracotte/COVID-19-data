@@ -15,7 +15,7 @@ Bahrain,Bahrein,Asie,2020-04-02 23:32:01,643,4,381,258
 Bangladesh,Bangladesh,Asie,2020-04-02 23:32:01,56,6,25,25
 Barbados,Barbados,Amérique Centrale,2020-04-02 23:32:01,46,0,0,46
 Belarus,Biélorusse,Europe,2020-04-02 23:32:01,304,4,53,247
-Belgium,Belgique,Europe,2020-04-03 11:32:01,16770,1143,2872,12755
+Belgium,Belgique,Europe,2020-04-02 23:32:01,15348,1011,2495,11842
 Belize,Belize,Amérique Centrale,2020-04-02 23:25:14,3,0,0,3
 Benin,Bénin,Afrique,2020-04-02 23:25:14,13,0,1,12
 Bhutan,Bhoutan,Asie,2020-04-02 23:25:14,5,0,1,4
@@ -44,7 +44,7 @@ Cuba,Cuba,Amérique Centrale,2020-04-02 23:31:46,233,6,13,214
 Cyprus,Chypre,Europe,2020-04-02 23:31:46,356,10,28,318
 Czech Republic,République Tchèque,Europe,2020-04-02 23:31:46,3858,44,67,3747
 Democratic Republic of Congo,République Démocratique du Congo,Afrique,2020-04-02 23:31:46,134,13,3,118
-Denmark,Danemark,Europe,2020-04-02 23:31:46,3573,123,1172,2278
+Denmark,,,2020-04-02 23:31:46,3573,123,1172,2278
 Diamond Princess,Diamond Princess,,2020-04-02 23:31:46,712,11,619,82
 Djibouti,Djibouti,Afrique,2020-04-02 23:31:46,40,0,0,40
 Dominica,Dominique,Amérique Centrale,2020-04-02 23:31:46,12,0,0,12
@@ -174,12 +174,9 @@ Ukraine,Ukraine,Europe,2020-04-02 23:25:14,897,22,19,856
 United Arab Emirates,Émirats Arabes Unis,Moyen-Orient,2020-04-02 23:25:14,1024,8,96,920
 United Kingdom,Royaume-Uni,Europe,2020-04-02 23:25:14,34173,2926,192,31055
 Uruguay,Uruguay,Amérique du Sud,2020-04-02 23:25:14,350,4,62,284
-United States of America,États-Unis,Amérique du Nord,2020-04-02 23:25:14,243453,5926,9001,228526
+United States of America,États-Unis,Amérique du Nord,2020-04-02 23:25:14,243453,5926,9001,0
 Uzbekistan,Ouzbékistan,Asie,2020-04-02 23:25:14,205,2,25,178
 Vietnam,Vietnam,Asie,2020-04-02 23:25:14,233,0,75,158
 West Bank and Gaza,Palestine,Moyen-Orient,2020-04-02 23:25:14,161,1,18,142
 Zambia,Zambie,Afrique,2020-04-02 23:25:14,39,1,0,38
 Zimbabwe,Zimbabwe,Afrique,2020-04-02 23:25:14,9,1,0,8
-Republic of Serbia,Serbie,Europe,2020-04-01 21:58:34,1171,31,0,1140
-Slovakia,Slovaquie,Europe,2020-04-01 21:58:34,4526,1,5,4520
-Macedonia,Macédoine du Nord,Europe,2020-04-01 21:58:34,384,11,17,356
