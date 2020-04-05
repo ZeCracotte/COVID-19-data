@@ -1,12 +1,12 @@
-PROVINCE,Nom,Sum - CASES
-Antwerp,Anvers,2589
-Walloon Brabant,Brabant Wallon,541
-Brussels,Bruxelles,2215
-Hainaut,Hainaut,2049
-Liege,Liège,1779
-Limburg,Limbourg,2429
-Luxembourg,Luxembourg,614
-Namur,Namur,564
-East Flanders,Flandre orientale,2287
-Flemish Brabant,Brabant Flamand,2086
-West Flanders,Flandre Occidentale,2212
+PROVINCE,Nom,Sum - CASES,Last Update
+Antwerp,Anvers,2589,2020-04-04
+Walloon Brabant,Brabant Wallon,541,2020-04-04
+Brussels,Bruxelles,2215,2020-04-04
+Hainaut,Hainaut,2049,2020-04-04
+Liege,Liège,1779,2020-04-04
+Limburg,Limbourg,2429,2020-04-04
+Luxembourg,Luxembourg,614,2020-04-04
+Namur,Namur,564,2020-04-04
+East Flanders,Flandre orientale,2287,2020-04-04
+Flemish Brabant,Brabant Flamand,2086,2020-04-04
+West Flanders,Flandre Occidentale,2212,2020-04-04
