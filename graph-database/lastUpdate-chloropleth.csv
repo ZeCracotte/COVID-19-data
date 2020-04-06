@@ -1,185 +1,187 @@
 Country_Region,French Name,Continent,Last_Update,Confirmed,Deaths,Recovered,Active
-Afghanistan,Afghanistan,Asie,2020-04-04 23:34:04,299,7,10,282
-Albania,Albanie,Europe,2020-04-04 23:34:04,333,20,99,214
-Algeria,Algérie,Afrique,2020-04-04 23:34:04,1251,130,90,1031
-Andorra,Andorre,Europe,2020-04-04 23:34:04,466,17,21,428
-Angola,Angola,Afrique,2020-04-04 23:34:04,10,2,2,6
-Antigua and Barbuda,Antigua et Barduda,Amérique Centrale,2020-04-04 23:34:04,15,0,0,15
-Arab Republic of Egypt,Égypte,Afrique,2020-04-04 23:34:04,1070,71,241,758
-Argentina,Argentine,Amérique du Sud,2020-04-04 23:34:04,1451,43,279,1129
-Armenia,Arménie,Asie,2020-04-04 23:34:04,770,7,43,720
-Australia,Australie,Océanie,2020-04-04 23:34:04,5550,30,701,4819
-Austria,Autriche,Europe,2020-04-04 23:34:04,11781,186,2507,9088
-Azerbaijan,Azebaïdjan,Asie,2020-04-04 23:34:04,521,5,32,484
-Bahrain,Bahrein,Asie,2020-04-04 23:34:04,688,4,423,261
-Bangladesh,Bangladesh,Asie,2020-04-04 23:34:04,70,8,30,32
-Barbados,Barbados,Amérique Centrale,2020-04-04 23:34:04,52,0,0,52
-Belarus,Biélorusse,Europe,2020-04-04 23:34:04,440,5,53,382
-Belgium,Belgique,Europe,2020-04-04 23:34:04,18431,1283,3247,13901
-Belize,Belize,Amérique Centrale,2020-04-04 23:34:04,4,0,0,4
-Benin,Bénin,Afrique,2020-04-04 23:34:04,16,0,2,14
-Bhutan,Bhoutan,Asie,2020-04-04 23:34:04,5,0,2,3
-Bolivia,Bolivie,Amérique du Sud,2020-04-04 23:34:04,139,10,1,128
-Bosnia and Herzegovina,Bosnie Herzégovine,Europe,2020-04-04 23:34:04,624,21,30,573
-Botswana,Botswana,Afrique,2020-04-04 23:34:04,4,1,0,3
-Brazil,Brésil,Amérique du Sud,2020-04-04 23:34:04,10360,445,127,9788
-Brunei Darussalam,Brunei,Asie,2020-04-04 23:34:04,135,1,66,68
-Bulgaria,Bulgarie,Europe,2020-04-04 23:34:04,503,17,34,452
-Burkina Faso,Burkina Faso,Afrique,2020-04-04 23:34:04,318,16,66,236
-Burundi,Burundi,Afrique,2020-04-04 23:34:04,3,0,0,3
-Cambodia,Cambodge,Asie,2020-04-04 23:34:04,114,0,50,64
-Cameroon,Cameroun,Afrique,2020-04-04 23:34:04,555,9,17,529
-Canada,Canada,Amérique du Nord,2020-04-04 23:34:04,12978,218,2577,10183
-Cape Verde,Cap Vert,Afrique,2020-04-04 23:34:04,7,1,0,6
-Central African Republic,République d’Afrique Centrale,Afrique,2020-04-04 23:34:04,8,0,0,8
-Chad,Tchad,Afrique,2020-04-04 23:34:04,9,0,0,9
-Chile,Chili,Amérique du Sud,2020-04-04 23:34:04,4161,27,528,3606
-China,Chine,Asie,2020-04-04 23:34:04,82543,3330,76946,2267
-Colombia,Colombie,Amérique du Sud,2020-04-04 23:34:04,1406,32,85,1289
-Congo,Congo,Afrique,2020-04-04 23:34:04,22,2,2,18
-Costa Rica,Costa Rica,Amérique du Sud,2020-04-04 23:34:04,435,2,13,420
-Côte d'Ivoire,Cote d’Ivoire,Afrique,2020-04-04 23:34:04,245,1,25,219
-Croatia,Croatie,Europe,2020-04-04 23:34:04,1126,12,119,995
-Cuba,Cuba,Amérique Centrale,2020-04-04 23:34:04,288,6,15,267
-Cyprus,Chypre,Europe,2020-04-04 23:34:04,426,11,33,382
-Czech Republic,République Tchèque,Europe,2020-04-04 23:34:04,4472,59,78,4335
-Democratic Republic of Congo,République Démocratique du Congo,Afrique,2020-04-04 23:34:04,154,18,3,133
-Denmark,Danemark,Europe,2020-04-04 23:34:04,4269,161,1379,2729
-Diamond Princess,Diamond Princess,,2020-04-04 23:34:04,712,11,619,82
-Djibouti,Djibouti,Afrique,2020-04-04 23:34:04,50,0,8,42
-Dominica,Dominique,Amérique Centrale,2020-04-04 23:34:04,14,0,0,14
-Dominican Republic,République Dominicaine,Amérique Centrale,2020-04-04 23:34:04,1488,68,16,1404
-Ecuador,Équateur,Amérique du Sud,2020-04-04 23:34:04,3465,172,100,3193
-El Salvador,El Salvador,Amérique Centrale,2020-04-04 23:34:04,56,3,2,51
-Equatorial Guinea,Guinée équatoriale,Afrique,2020-04-04 23:34:04,16,0,1,15
-Eritrea,Erythrée,Afrique,2020-04-04 23:34:04,29,0,0,29
-Estonia,Estonie,Europe,2020-04-04 23:34:04,1039,13,59,967
-Eswatini,Eswatini,Afrique,2020-04-04 23:34:04,9,0,0,9
-Ethiopia,Ethiopie,Afrique,2020-04-04 23:34:04,38,0,4,34
-Fiji,Iles Fidji,Amérique Centrale,2020-04-04 23:34:04,12,0,0,12
-Finland,Finlande,Europe,2020-04-04 23:34:04,1882,25,300,1557
-France,France,Europe,2020-04-04 23:34:04,90848,7574,15572,67702
-Gabon,Gabon,Afrique,2020-04-04 23:34:04,21,1,1,19
-Georgia,Géorgie,Asie,2020-04-04 23:34:04,162,1,36,125
-Germany,Allemagne,Europe,2020-04-04 23:34:04,96092,1444,26400,68248
-Ghana,Ghana,Afrique,2020-04-04 23:34:04,205,5,31,169
-Greece,Grèce,Europe,2020-04-04 23:34:04,1673,68,78,1527
-Grenada,Grenade,Amérique Centrale,2020-04-04 23:34:04,12,0,0,12
-Guatemala,Guatemala,Amérique Centrale,2020-04-04 23:34:04,61,2,15,44
-Guinea,Guinée,Afrique,2020-04-04 23:34:04,111,0,5,106
-Guinea-Bissau,Guinée-Bissau,Afrique,2020-04-04 23:34:04,18,0,0,18
-Guyana,Guyane,Amérique du Sud,2020-04-04 23:34:04,23,4,0,19
-Haiti,Haïti,Amérique Centrale,2020-04-04 23:34:04,20,0,1,19
-Holy See,Iles Anglo-Normandes,Europe,2020-04-04 23:34:04,7,0,0,7
-Honduras,Honduras,Amérique Centrale,2020-04-04 23:34:04,264,15,3,246
-Hungary,Hongrie,Europe,2020-04-04 23:34:04,678,32,58,588
-Iceland,Islande,Europe,2020-04-04 23:34:04,1417,4,396,1017
-India,Inde,Asie,2020-04-04 23:34:04,3082,86,229,2767
-Indonesia,Indonésie,Asie,2020-04-04 23:34:04,2092,191,150,1751
-Iraq,Irak,Moyen-Orient,2020-04-04 23:34:04,878,56,259,563
-Ireland,Irlande,Europe,2020-04-04 23:34:04,4604,137,25,4442
-Islamic Republic of Iran,Iran,Moyen-Orient,2020-04-04 23:34:04,55743,3452,19736,32555
-Israel,Israël,Moyen-Orient,2020-04-04 23:34:04,7851,44,427,7380
-Italy,Italie,Europe,2020-04-04 23:34:04,124632,15362,20996,88274
-Jamaica,Jamaïque,Amérique Centrale,2020-04-04 23:34:04,53,3,7,43
-Japan,Japon,Asie,2020-04-04 23:34:04,3139,77,514,2548
-Jordan,Jordanie,Moyen-Orient,2020-04-04 23:34:04,323,5,74,244
-Kazakhstan,Kazakhstan,Asie,2020-04-04 23:34:04,531,5,36,490
-Kenya,Kenya,Afrique,2020-04-04 23:34:04,126,4,4,118
-Kosovo,Kosovo,Europe,2020-04-04 23:34:04,135,1,16,118
-Kuwait,Koweit,Moyen-Orient,2020-04-04 23:34:04,479,1,93,385
-Kyrgyz Republic,Kirghizistan,Asie,2020-04-04 23:34:04,144,1,9,134
-Lao People's Democratic Republic,Laos,Asie,2020-04-04 23:34:04,10,0,0,10
-Latvia,Lettonie,Europe,2020-04-04 11:36:49,509,1,1,507
-Lebanon,Liban,Moyen-Orient,2020-04-04 23:34:04,520,17,54,449
-Liberia,Liberia,Afrique,2020-04-04 23:34:04,10,1,3,6
-Libya,Libye,Afrique,2020-04-04 23:34:04,18,1,0,17
-Liechtenstein,Liechtenstein,Europe,2020-04-04 23:34:04,77,1,0,76
-Lithuania,Lituanie,Europe,2020-04-04 23:34:04,771,11,7,753
-Luxembourg,Luxembourg,Europe,2020-04-04 23:34:04,2729,31,500,2198
-Madagascar,Madagascar,Afrique,2020-04-04 23:34:04,70,0,0,70
-Malawi,Malawi,Afrique,2020-04-04 23:34:04,4,0,0,4
-Malaysia,Malaisie,Asie,2020-04-04 23:34:04,3483,57,915,2511
-Maldives,Maldives,Asie,2020-04-04 23:34:04,19,0,13,6
-Mali,Mali,Afrique,2020-04-04 23:34:04,41,3,1,37
-Malta,Malte,Europe,2020-04-04 23:34:04,213,0,2,211
-Mauritania,Mauritanie,Afrique,2020-04-04 23:34:04,6,1,2,3
-Mauritius,Maurice,Afrique,2020-04-04 23:34:04,196,7,7,182
-Mexico,Mexique,Amérique du Nord,2020-04-04 23:34:04,1688,60,633,995
-Moldova,Moldavie,Asie,2020-04-04 23:34:04,752,12,29,711
-Monaco,Monaco,Europe,2020-04-04 23:34:04,66,1,3,62
-Mongolia,Mongolie,Asie,2020-04-04 23:34:04,14,0,2,12
-Montenegro,Montenegro,Europe,2020-04-04 23:34:04,201,2,1,198
-Morocco,Maroc,Afrique,2020-04-04 23:34:04,919,59,66,794
-Mozambique,Mozambique,Afrique,2020-04-04 23:34:04,10,0,1,9
-MS Zaandam,MS Zaandam,,2020-04-04 23:34:04,9,2,0,7
-Myanmar,Birmanie,Asie,2020-04-04 23:34:04,21,1,0,20
-Namibia,Namibie,Afrique,2020-04-04 23:34:04,14,0,3,11
-Nepal,Népal,Asie,2020-04-04 23:34:04,9,0,1,8
-Netherlands,Pays-Bas,Europe,2020-04-04 23:34:04,16727,1656,262,14809
-New Zealand,Nouvelle-Zélande,Océanie,2020-04-04 23:34:04,950,1,127,822
-Nicaragua,Nicaragua,Amérique Centrale,2020-04-04 23:34:04,5,1,0,4
-Niger,Niger,Afrique,2020-04-04 23:34:04,144,8,0,136
-Nigeria,Nigeria,Afrique,2020-04-04 23:34:04,214,4,25,185
-North Macedonia,Macédoine du Nord,Europe,2020-04-04 23:34:04,483,17,20,446
-Norway,Norvège,Europe,2020-04-04 23:34:04,5550,62,32,5456
-Oman,Oman,Moyen-Orient,2020-04-04 23:34:04,277,2,61,214
-Pakistan,Pakistan,Asie,2020-04-04 23:34:04,2818,41,131,2646
-Panama,Panama,Amérique Centrale,2020-04-04 23:34:04,1673,41,13,1619
-Papua New Guinea,Papouasie Nouvelle Guinée,Océanie,2020-04-04 23:34:04,1,0,0,1
-Paraguay,Paraguay,Amérique du Sud,2020-04-04 23:34:04,96,3,12,81
-Peru,Pérou,Amérique du Sud,2020-04-04 23:34:04,1746,73,914,759
-Philippines,Philippines,Asie,2020-04-04 23:34:04,3094,144,57,2893
-Poland,Pologne,Europe,2020-04-04 23:34:04,3627,79,116,3432
-Portugal,Portugal,Europe,2020-04-04 23:34:04,10524,266,75,10183
-Qatar,Qatar,Moyen-Orient,2020-04-04 23:34:04,1325,3,109,1213
-R. B. de Venezuela,Venezuela,Amérique du Sud,2020-04-04 23:34:04,155,7,52,96
-Republic of Korea,Corée du Sud,Asie,2020-04-04 23:34:04,10156,177,6325,3654
-Romania,Roumanie,Europe,2020-04-04 23:34:04,3613,146,329,3138
-Russian Federation,Russie,Asie,2020-04-04 23:34:04,4731,43,333,4355
-Rwanda,Rwanda,Afrique,2020-04-04 23:34:04,102,0,0,102
-Saint Kitts and Nevis,Saint-Christophe-et-Niévès,Amérique Centrale,2020-04-04 23:34:04,9,0,0,9
-Saint Lucia,Sainte Lucie,Amérique Centrale,2020-04-04 23:34:04,14,0,1,13
-Saint Vincent and the Grenadines,Saint Vincent et les Grenadines,Amérique Centrale,2020-04-04 23:34:04,7,0,1,6
-San Marino,Saint Marin,Europe,2020-04-04 23:34:04,259,32,27,200
-Saudi Arabia,Arabie Saoudite,Moyen-Orient,2020-04-04 23:34:04,2179,29,420,1730
-Senegal,Sénégal,Afrique,2020-04-04 23:34:04,219,2,72,145
-Serbia,Serbie,Europe,2020-04-04 23:34:04,1624,44,0,1580
-Seychelles,Seychelles,Asie,2020-04-04 23:34:04,10,0,0,10
-Sierra Leone,Sierra Leone,Afrique,2020-04-04 23:34:04,4,0,0,4
-Singapore,Singapour,Asie,2020-04-04 23:34:04,1189,6,297,886
-Slovak Republic,Slovaquie,Europe,2020-04-04 23:34:04,471,1,10,460
-Slovenia,Slovénie,Europe,2020-04-04 23:34:04,977,22,79,876
-Somalia,Somalie,Afrique,2020-04-04 23:34:04,7,0,1,6
-South Africa,Afrique du Sud,Afrique,2020-04-04 23:34:04,1585,9,95,1481
-Spain,Espagne,Europe,2020-04-04 23:34:04,126168,11947,34219,80002
-Sri Lanka,Sri Lanka,Asie,2020-04-04 23:34:04,166,5,27,134
-Sudan,Soudan,Afrique,2020-04-04 23:34:04,10,2,2,6
-Suriname,Suriname,Amérique du Sud,2020-04-04 23:34:04,10,1,0,9
-Sweden,Suède,Europe,2020-04-04 23:34:04,6443,373,205,5865
-Switzerland,Suisse,Europe,2020-04-04 23:34:04,20505,666,6415,13424
-Syrian Arab Republic,Syrie,Moyen-Orient,2020-04-04 23:34:04,16,2,2,12
-Taiwan,Taiwan,Asie,2020-04-04 23:34:04,355,5,50,300
-Tanzania,Tanzanie,Afrique,2020-04-04 23:34:04,20,1,3,16
-Thailand,Thaïlande,Asie,2020-04-04 23:34:04,2067,20,674,1373
-The Bahamas,Les Bahamas,Amérique Centrale,2020-04-04 23:34:04,28,4,0,24
-The Gambia,Gambie,Afrique,2020-04-04 23:34:04,4,1,2,1
-Timor-Leste,Timor Oriental,Asie,2020-04-04 23:34:04,1,0,0,1
-Togo,Togo,Afrique,2020-04-04 23:34:04,41,3,17,21
-Trinidad and Tobago,Trinidad et Tobago,Amérique Centrale,2020-04-04 23:34:04,103,6,1,96
-Tunisia,Tunisie,Afrique,2020-04-04 23:34:04,553,18,5,530
-Turkey,Turquie,Europe,2020-04-04 23:34:04,23934,501,786,22647
-Uganda,Ouganda,Afrique,2020-04-04 23:34:04,48,0,0,48
-Ukraine,Ukraine,Europe,2020-04-04 23:34:04,1225,32,25,1168
-United Arab Emirates,Émirats Arabes Unis,Moyen-Orient,2020-04-04 23:34:04,1505,10,125,1370
-United Kingdom,Royaume-Uni,Europe,2020-04-04 23:34:04,42477,4320,215,37942
-United States of America,États-Unis,Amérique du Nord,2020-04-04 23:34:04,308850,8407,14652,285791
-Uruguay,Uruguay,Amérique du Sud,2020-04-04 23:34:04,400,5,93,302
-Uzbekistan,Ouzbékistan,Asie,2020-04-04 23:34:04,266,2,25,239
-Vietnam,Vietnam,Asie,2020-04-04 23:34:04,240,0,90,150
-West Bank and Gaza,Palestine,Moyen-Orient,2020-04-04 23:34:04,217,1,21,195
-Zambia,Zambie,Afrique,2020-04-04 23:34:04,39,1,2,36
-Zimbabwe,Zimbabwe,Afrique,2020-04-04 23:34:04,9,1,0,8
-Republic of Serbia,Serbie,,2020-04-04 23:34:04,1624,44,0,1580
-Slovakia,Slovaquie,,2020-04-04 23:34:04,471,1,10,460
-Macedonia,Macédoine du Nord,,2020-04-04 23:34:04,483,17,20,446
+Afghanistan,Afghanistan,Asie,2020-04-05 23:06:45,349,7,15,327
+Albania,Albanie,Europe,2020-04-05 23:06:45,361,20,104,237
+Algeria,Algérie,Afrique,2020-04-05 23:06:45,1320,152,90,1078
+Andorra,Andorre,Europe,2020-04-05 23:06:45,501,18,26,457
+Angola,Angola,Afrique,2020-04-05 23:06:45,14,2,2,10
+Antigua and Barbuda,Antigua et Barduda,Amérique Centrale,2020-04-05 23:06:45,15,0,0,15
+Arab Republic of Egypt,Égypte,Afrique,2020-04-05 23:06:45,1173,78,247,848
+Argentina,Argentine,Amérique du Sud,2020-04-05 23:06:45,1451,44,280,1127
+Armenia,Arménie,Asie,2020-04-05 23:06:45,822,7,57,758
+Australia,Australie,Océanie,2020-04-05 23:06:45,5687,35,757,4895
+Austria,Autriche,Europe,2020-04-05 23:06:45,12051,204,2998,8849
+Azerbaijan,Azebaïdjan,Asie,2020-04-05 23:06:45,584,7,32,545
+Bahrain,Bahrein,Asie,2020-04-05 23:06:45,700,4,431,265
+Bangladesh,Bangladesh,Asie,2020-04-05 23:06:45,88,9,33,46
+Barbados,Barbados,Amérique Centrale,2020-04-05 23:06:45,56,1,6,49
+Belarus,Biélorusse,Europe,2020-04-05 23:06:45,562,8,52,502
+Belgium,Belgique,Europe,2020-04-05 23:06:45,19691,1447,3751,14493
+Belize,Belize,Amérique Centrale,2020-04-05 23:06:45,5,0,0,5
+Benin,Bénin,Afrique,2020-04-05 23:06:45,22,0,5,17
+Bhutan,Bhoutan,Asie,2020-04-05 23:06:45,5,0,2,3
+Bolivia,Bolivie,Amérique du Sud,2020-04-05 23:06:45,157,10,2,145
+Bosnia and Herzegovina,Bosnie Herzégovine,Europe,2020-04-05 23:06:45,654,23,30,601
+Botswana,Botswana,Afrique,2020-04-05 23:06:45,6,1,0,5
+Brazil,Brésil,Amérique du Sud,2020-04-05 23:06:45,11130,486,127,10517
+Brunei Darussalam,Brunei,Asie,2020-04-05 23:06:45,135,1,73,61
+Bulgaria,Bulgarie,Europe,2020-04-05 23:06:45,531,20,37,474
+Burkina Faso,Burkina Faso,Afrique,2020-04-05 23:06:45,345,17,90,238
+Burundi,Burundi,Afrique,2020-04-05 23:06:45,3,0,0,3
+Cambodia,Cambodge,Asie,2020-04-05 23:06:45,114,0,50,64
+Cameroon,Cameroun,Afrique,2020-04-05 23:06:45,650,9,17,624
+Canada,Canada,Amérique du Nord,2020-04-05 23:06:45,15756,259,3012,12485
+Cape Verde,Cap Vert,Afrique,2020-04-05 23:06:45,7,1,0,6
+Central African Republic,République d’Afrique Centrale,Afrique,2020-04-05 23:06:45,8,0,0,8
+Chad,Tchad,Afrique,2020-04-05 23:06:45,9,0,0,9
+Chile,Chili,Amérique du Sud,2020-04-05 23:06:45,4471,34,618,3819
+China,Chine,Asie,2020-04-05 23:06:45,82602,3333,77207,2062
+Colombia,Colombie,Amérique du Sud,2020-04-05 23:06:45,1485,35,88,1362
+Congo,Congo,Afrique,2020-04-05 23:06:45,45,5,2,38
+Costa Rica,Costa Rica,Amérique du Sud,2020-04-05 23:06:45,454,2,16,436
+Côte d'Ivoire,Cote d’Ivoire,Afrique,2020-04-05 23:06:45,261,3,37,221
+Croatia,Croatie,Europe,2020-04-05 23:06:45,1182,15,125,1042
+Cuba,Cuba,Amérique Centrale,2020-04-05 23:06:45,320,8,15,297
+Cyprus,Chypre,Europe,2020-04-05 23:06:45,446,9,37,400
+Czech Republic,République Tchèque,Europe,2020-04-05 23:06:45,4587,67,96,4424
+Democratic Republic of Congo,République Démocratique du Congo,Afrique,2020-04-05 23:06:45,154,18,3,133
+Denmark,Danemark,Europe,2020-04-05 23:06:45,4561,179,1429,2953
+Diamond Princess,Diamond Princess,,2020-04-05 23:06:45,712,11,619,82
+Djibouti,Djibouti,Afrique,2020-04-05 23:06:45,59,0,9,50
+Dominica,Dominique,Amérique Centrale,2020-04-05 23:06:45,14,0,0,14
+Dominican Republic,République Dominicaine,Amérique Centrale,2020-04-05 23:06:45,1745,82,17,1646
+Ecuador,Équateur,Amérique du Sud,2020-04-05 23:06:45,3646,180,100,3366
+El Salvador,El Salvador,Amérique Centrale,2020-04-05 23:06:45,62,3,2,57
+Equatorial Guinea,Guinée équatoriale,Afrique,2020-04-05 23:06:45,16,0,1,15
+Eritrea,Erythrée,Afrique,2020-04-05 23:06:45,29,0,0,29
+Estonia,Estonie,Europe,2020-04-05 23:06:45,1097,15,62,1020
+Eswatini,Eswatini,Afrique,2020-04-05 23:06:45,9,0,0,9
+Ethiopia,Ethiopie,Afrique,2020-04-05 23:06:45,43,2,4,37
+Fiji,Iles Fidji,Amérique Centrale,2020-04-05 23:06:45,12,0,0,12
+Finland,Finlande,Europe,2020-04-05 23:06:45,1927,28,300,1599
+France,France,Europe,2020-04-05 23:06:45,93773,8093,16349,69331
+Gabon,Gabon,Afrique,2020-04-05 23:06:45,21,1,1,19
+Georgia,Géorgie,Asie,2020-04-05 23:06:45,174,2,36,136
+Germany,Allemagne,Europe,2020-04-05 23:06:45,100123,1584,28700,69839
+Ghana,Ghana,Afrique,2020-04-05 23:06:45,214,5,31,178
+Greece,Grèce,Europe,2020-04-05 23:06:45,1735,73,78,1584
+Grenada,Grenade,Amérique Centrale,2020-04-05 23:06:45,12,0,0,12
+Guatemala,Guatemala,Amérique Centrale,2020-04-05 23:06:45,61,2,15,44
+Guinea,Guinée,Afrique,2020-04-05 23:06:45,121,0,5,116
+Guinea-Bissau,Guinée-Bissau,Afrique,2020-04-05 23:06:45,18,0,0,18
+Guyana,Guyane,Amérique du Sud,2020-04-05 23:06:45,24,4,0,20
+Haiti,Haïti,Amérique Centrale,2020-04-05 23:06:45,21,1,1,19
+Holy See,Iles Anglo-Normandes,Europe,2020-04-05 23:06:45,7,0,0,7
+Honduras,Honduras,Amérique Centrale,2020-04-05 23:06:45,268,22,6,240
+Hungary,Hongrie,Europe,2020-04-05 23:06:45,733,34,66,633
+Iceland,Islande,Europe,2020-04-05 23:06:45,1486,4,428,1054
+India,Inde,Asie,2020-04-05 23:06:45,3588,99,229,3260
+Indonesia,Indonésie,Asie,2020-04-05 23:06:45,2273,198,164,1911
+Iraq,Irak,Moyen-Orient,2020-04-05 23:06:45,961,61,279,621
+Ireland,Irlande,Europe,2020-04-05 23:06:45,4994,158,25,4811
+Islamic Republic of Iran,Iran,Moyen-Orient,2020-04-05 23:06:45,58226,3603,19736,34887
+Israel,Israël,Moyen-Orient,2020-04-05 23:06:45,8430,49,477,7904
+Italy,Italie,Europe,2020-04-05 23:06:45,128948,15887,21815,91246
+Jamaica,Jamaïque,Amérique Centrale,2020-04-05 23:06:45,58,3,8,47
+Japan,Japon,Asie,2020-04-05 23:06:45,3139,77,514,2548
+Jordan,Jordanie,Moyen-Orient,2020-04-05 23:06:45,345,5,110,230
+Kazakhstan,Kazakhstan,Asie,2020-04-05 23:06:45,584,6,42,536
+Kenya,Kenya,Afrique,2020-04-05 23:06:45,142,4,4,134
+Kosovo,Kosovo,Europe,2020-04-05 23:06:45,145,1,23,121
+Kuwait,Koweit,Moyen-Orient,2020-04-05 23:06:45,556,1,99,456
+Kyrgyz Republic,Kirghizistan,Asie,2020-04-05 23:06:45,147,1,9,137
+Lao People's Democratic Republic,Laos,Asie,2020-04-05 23:06:45,11,0,0,11
+Latvia,Lettonie,Europe,2020-04-05 23:06:45,533,1,1,531
+Lebanon,Liban,Moyen-Orient,2020-04-05 23:06:45,527,18,54,455
+Liberia,Liberia,Afrique,2020-04-05 23:06:45,13,3,3,7
+Libya,Libye,Afrique,2020-04-05 23:06:45,18,1,0,17
+Liechtenstein,Liechtenstein,Europe,2020-04-05 23:06:45,77,1,0,76
+Lithuania,Lituanie,Europe,2020-04-05 23:06:45,811,13,7,791
+Luxembourg,Luxembourg,Europe,2020-04-05 23:06:45,2804,36,500,2268
+Madagascar,Madagascar,Afrique,2020-04-05 23:06:45,72,0,2,70
+Malawi,Malawi,Afrique,2020-04-05 23:06:45,4,0,0,4
+Malaysia,Malaisie,Asie,2020-04-05 23:06:45,3662,61,1005,2596
+Maldives,Maldives,Asie,2020-04-05 23:06:45,19,0,13,6
+Mali,Mali,Afrique,2020-04-05 23:06:45,45,5,1,39
+Malta,Malte,Europe,2020-04-05 23:06:45,227,0,5,222
+Mauritania,Mauritanie,Afrique,2020-04-05 23:06:45,6,1,2,3
+Mauritius,Maurice,Afrique,2020-04-05 23:06:45,227,7,7,213
+Mexico,Mexique,Amérique du Nord,2020-04-05 23:06:45,1890,79,633,1178
+Moldova,Moldavie,Asie,2020-04-05 23:06:45,864,15,30,819
+Monaco,Monaco,Europe,2020-04-05 23:06:45,73,1,3,69
+Mongolia,Mongolie,Asie,2020-04-05 23:06:45,14,0,2,12
+Montenegro,Montenegro,Europe,2020-04-05 23:06:45,214,2,1,211
+Morocco,Maroc,Afrique,2020-04-05 23:06:45,1021,70,76,875
+Mozambique,Mozambique,Afrique,2020-04-05 23:06:45,10,0,1,9
+MS Zaandam,MS Zaandam,,2020-04-05 23:06:45,9,2,0,7
+Myanmar,Birmanie,Asie,2020-04-05 23:06:45,21,1,0,20
+Namibia,Namibie,Afrique,2020-04-05 23:06:45,16,0,3,13
+Nepal,Népal,Asie,2020-04-05 23:06:45,9,0,1,8
+Netherlands,Pays-Bas,Europe,2020-04-05 23:06:45,17953,1771,257,15925
+New Zealand,Nouvelle-Zélande,Océanie,2020-04-05 23:06:45,1039,1,156,882
+Nicaragua,Nicaragua,Amérique Centrale,2020-04-05 23:06:45,6,1,0,5
+Niger,Niger,Afrique,2020-04-05 23:06:45,184,10,13,161
+Nigeria,Nigeria,Afrique,2020-04-05 23:06:45,232,5,33,194
+North Macedonia,Macédoine du Nord,Europe,2020-04-05 23:06:45,555,18,23,514
+Norway,Norvège,Europe,2020-04-05 23:06:45,5687,71,32,5584
+Oman,Oman,Moyen-Orient,2020-04-05 23:06:45,298,2,61,235
+Pakistan,Pakistan,Asie,2020-04-05 23:06:45,3157,47,211,2899
+Panama,Panama,Amérique Centrale,2020-04-05 23:06:45,1801,46,13,1742
+Papua New Guinea,Papouasie Nouvelle Guinée,Océanie,2020-04-05 23:06:45,1,0,0,1
+Paraguay,Paraguay,Amérique du Sud,2020-04-05 23:06:45,104,3,12,89
+Peru,Pérou,Amérique du Sud,2020-04-05 23:06:45,2281,83,989,1209
+Philippines,Philippines,Asie,2020-04-05 23:06:45,3246,152,64,3030
+Poland,Pologne,Europe,2020-04-05 23:06:45,4102,94,134,3874
+Portugal,Portugal,Europe,2020-04-05 23:06:45,11278,295,75,10908
+Qatar,Qatar,Moyen-Orient,2020-04-05 23:06:45,1604,4,123,1477
+R. B. de Venezuela,Venezuela,Amérique du Sud,2020-04-05 23:06:45,159,7,52,100
+Republic of Korea,Corée du Sud,Asie,2020-04-05 23:06:45,10237,183,6463,3591
+Romania,Roumanie,Europe,2020-04-05 23:06:45,3864,151,374,3339
+Russian Federation,Russie,Asie,2020-04-05 23:06:45,5389,45,355,4989
+Rwanda,Rwanda,Afrique,2020-04-05 23:06:45,104,0,4,100
+Saint Kitts and Nevis,Saint-Christophe-et-Niévès,Amérique Centrale,2020-04-05 23:06:45,10,0,0,10
+Saint Lucia,Sainte Lucie,Amérique Centrale,2020-04-05 23:06:45,14,0,1,13
+Saint Vincent and the Grenadines,Saint Vincent et les Grenadines,Amérique Centrale,2020-04-05 23:06:45,7,0,1,6
+San Marino,Saint Marin,Europe,2020-04-05 23:06:45,266,32,35,199
+Saudi Arabia,Arabie Saoudite,Moyen-Orient,2020-04-05 23:06:45,2402,34,488,1880
+Senegal,Sénégal,Afrique,2020-04-05 23:06:45,222,2,82,138
+Serbia,Serbie,Europe,2020-04-05 23:06:45,1908,51,0,1857
+Seychelles,Seychelles,Asie,2020-04-05 23:06:45,10,0,0,10
+Sierra Leone,Sierra Leone,Afrique,2020-04-05 23:06:45,6,0,0,6
+Singapore,Singapour,Asie,2020-04-05 23:06:45,1309,6,320,983
+Slovak Republic,Slovaquie,Europe,2020-04-05 23:06:45,485,1,10,474
+Slovenia,Slovénie,Europe,2020-04-05 23:06:45,997,28,79,890
+Somalia,Somalie,Afrique,2020-04-05 23:06:45,7,0,1,6
+South Africa,Afrique du Sud,Afrique,2020-04-05 23:06:45,1655,11,95,1549
+South Sudan,Sud Soudan,Afrique,2020-04-05 23:06:45,1,0,0,1
+Spain,Espagne,Europe,2020-04-05 23:06:45,131646,12641,38080,80925
+Sri Lanka,Sri Lanka,Asie,2020-04-05 23:06:45,176,5,33,138
+Sudan,Soudan,Afrique,2020-04-05 23:06:45,12,2,2,8
+Suriname,Suriname,Amérique du Sud,2020-04-05 23:06:45,10,1,0,9
+Sweden,Suède,Europe,2020-04-05 23:06:45,6830,401,205,6224
+Switzerland,Suisse,Europe,2020-04-05 23:06:45,21100,715,6415,13970
+Syrian Arab Republic,Syrie,Moyen-Orient,2020-04-05 23:06:45,19,2,2,15
+Taiwan,Taiwan,Asie,2020-04-05 23:06:45,363,5,50,308
+Tanzania,Tanzanie,Afrique,2020-04-05 23:06:45,22,1,3,18
+Thailand,Thaïlande,Asie,2020-04-05 23:06:45,2169,23,793,1353
+The Bahamas,Les Bahamas,Amérique Centrale,2020-04-05 23:06:45,28,4,0,24
+The Gambia,Gambie,Afrique,2020-04-05 23:06:45,4,1,2,1
+Timor-Leste,Timor Oriental,Asie,2020-04-05 23:06:45,1,0,0,1
+Togo,Togo,Afrique,2020-04-05 23:06:45,44,3,20,21
+Trinidad and Tobago,Trinidad et Tobago,Amérique Centrale,2020-04-05 23:06:45,104,7,1,96
+Tunisia,Tunisie,Afrique,2020-04-05 23:06:45,574,22,5,547
+Turkey,Turquie,Europe,2020-04-05 23:06:45,27069,574,1042,25453
+Uganda,Ouganda,Afrique,2020-04-05 23:06:45,52,0,0,52
+Ukraine,Ukraine,Europe,2020-04-05 23:06:45,1308,37,28,1243
+United Arab Emirates,Émirats Arabes Unis,Moyen-Orient,2020-04-05 23:06:45,1799,10,144,1645
+United Kingdom,Royaume-Uni,Europe,2020-04-05 23:06:45,48436,4943,229,43264
+United States of America,États-Unis,Amérique du Nord,2020-04-05 23:06:45,337072,9619,17448,310005
+Uruguay,Uruguay,Amérique du Sud,2020-04-05 23:06:45,400,5,93,302
+Uzbekistan,Ouzbékistan,Asie,2020-04-05 23:06:45,342,2,30,310
+Vietnam,Vietnam,Asie,2020-04-05 23:06:45,241,0,90,151
+West Bank and Gaza,Palestine,Moyen-Orient,2020-04-05 23:06:45,237,1,25,211
+Western Sahara,Sahara Occidental,Afrique,2020-04-05 23:06:45,4,0,0,4
+Zambia,Zambie,Afrique,2020-04-05 23:06:45,39,1,3,35
+Zimbabwe,Zimbabwe,Afrique,2020-04-05 23:06:45,9,1,0,8
+Republic of Serbia,Serbie,,2020-04-05 23:06:45,1908,51,0,1857
+Slovakia,Slovaquie,,2020-04-05 23:06:45,485,1,10,474
+Macedonia,Macédoine du Nord,,2020-04-05 23:06:45,555,18,23,514
