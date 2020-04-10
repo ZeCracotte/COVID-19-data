@@ -1,12 +1,14 @@
-PROVINCE,Nom,Sum - CASES,Last Update
-Antwerp,Anvers,2589,2020-04-04
-Walloon Brabant,Brabant Wallon,541,2020-04-04
-Brussels,Bruxelles,2215,2020-04-04
-Hainaut,Hainaut,2049,2020-04-04
-Liege,Liège,1779,2020-04-04
-Limburg,Limbourg,2429,2020-04-04
-Luxembourg,Luxembourg,614,2020-04-04
-Namur,Namur,564,2020-04-04
-East Flanders,Flandre orientale,2287,2020-04-04
-Flemish Brabant,Brabant Flamand,2086,2020-04-04
-West Flanders,Flandre Occidentale,2212,2020-04-04
+PROVINCE,Sum - CASES
+Antwerpen,3374
+BrabantWallon,682
+Brussels,2842
+Hainaut,2782
+Liège,2868
+Limburg,3280
+Luxembourg,814
+Namur,885
+OostVlaanderen,3134
+VlaamsBrabant,2733
+WestVlaanderen,2863
+(empty),410
+Total Result,26667
